@@ -1,0 +1,2060 @@
+place	name	city	state_prov	country	finish_time
+1	Xi Chen	Bellevue	WA	US	09:24
+2	Clarence Satchell	Charlotte	NC	US	10:00
+3	Adrienne Hall	Seattle	WA	US	13:10
+4	Ronak Sanghavi	Seattle	WA	US	15:00
+4	Tingting Wang	Bellevue	WA	US	15:00
+6	Jeff Malotte	BOTHELL	WA	US	15:41
+7	Douglas Jordan	Seattle	WA	US	15:46
+8	YoungShin Yoon	Chapel Hill	NC	US	16:00
+9	Sean Kane	Seattle	WA	US	16:34
+10	Maria Conceicao	ODIVELAS	Odivelas	PT	16:39
+11	Matthew Dorsett	Redmond	WA	US	17:11
+12	Daniel Clash	Pittsburgh	PA	US	17:37
+13	Josh Bailey	Newcastle	WA	US	17:40
+14	Brian Houck	Seattle	WA	US	17:55
+15	Scott Brown	Renton	WA	US	17:59
+16	Daniel Coats	Seattle	WA	US	18:17
+17	Hannah Westra	Seattle	WA	US	18:17
+18	Benjamin Schanz	Redmond	WA	US	18:21
+19	Quita Barnett	Redmond	WA	US	18:25
+20	Matt Sievers	Redmond	WA	US	18:42
+21	Nick Anderson	Redmond	WA	US	18:44
+22	Qiang Wu	Bellevue	WA	US	18:58
+23	Ryan Delecki	Fenton	MI	US	18:59
+24	Allen Wat	Centennial	CO	US	19:00
+25	Mark Johnson	Seattle	WA	US	19:03
+26	Flavio Griggio	Seattle	WA	US	19:07
+27	Joel Kucera	Redmond	WA	US	19:20
+28	Brendan Burns	Seattle	WA	US	19:21
+29	Jake Utley	Seattle	WA	US	19:26
+30	Logan Kurtin	Orlando	FL	US	19:29
+31	Ingo Bringemeier	Kirkland	WA	US	19:30
+32	Chris Vessey	South Burlington	VT	US	19:31
+33	Giovanni Pittalis	Seattle	WA	US	19:34
+34	Christoph Helbling	Redmond	WA	US	19:34
+35	Nick Elniff	Overland Park	KS	US	19:36
+36	Chris Eggert	Seattle	WA	US	19:44
+37	Chandra Cramer	Northbrook	IL	US	19:48
+38	Gabe Gravning	Seattle	WA	US	19:49
+38	Frank Pape				19:49
+40	Guilherme Souza	Redmond	WA	US	19:50
+41	Anthony Rieder	Carnation	WA	US	19:55
+42	Howard Crow	Sammamish	WA	US	20:00
+42	Carlos Oquendo	Harrisburg	NC	US	20:00
+44	Kellen Kingery	Seattle	WA	US	20:05
+45	Juliet Daniel	bellevue	WA	US	20:11
+46	Shane Chism	Bellevue	WA	US	20:16
+47	Emily Blundo	Dallas	TX	US	20:21
+48	Carl Russell	SNOQAULMIE	WA	US	20:38
+49	Scott Greene	Preston	WA	US	20:38
+50	Eric Gao	Ithaca	NY	US	20:42
+51	Adam Gleisner	Seattle	WA	US	20:47
+52	Mari Kauri	Monroe	WA	US	20:50
+53	Thomas Dohmke	Bellevue	WA	US	20:53
+54	Nathaniel Santiago	Issaquah	WA	US	20:53
+55	Nick Robinson	Sammamish	WA	US	20:53
+56	Mike Denman	Salem	WI	US	20:56
+57	Jackson Crewe	Issaquah	WA	US	20:58
+58	Yuval Mazor	Redmond	WA	US	21:02
+59	Julie Olden	Seattle	WA	US	21:04
+60	Chad Baker	McKinney	TX	US	21:06
+61	Jose Cartagena	Suffolk	VA	US	21:08
+62	Adam Bush	SAMMAMISH	WA	US	21:10
+63	Brandon Smith	Seattle	WA	US	21:11
+64	Amanda Snellinger	Seattle	WA	US	21:20
+65	Roberth Karman	Seattle	WA	US	21:23
+66	Cameron Lamarre	Dallas	TX	US	21:23
+67	Jeffrey Kennan	Sherborn	MA	US	21:24
+68	James Casey	Redmond	WA	US	21:27
+69	Owen Connolly	Kenmore	WA	US	21:27
+70	Justin Reuter	Indianapolis	IN	US	21:29
+71	Craig Dunn	Mountain View	CA	US	21:29
+72	Martin Piecyk	Redmond	WA	US	21:30
+73	Candina Weston	Mercer Island	WA	US	21:32
+74	Dan English	Lakeville	MN	US	21:34
+75	Melissa Mazor	Redmond	WA	US	21:34
+76	Peter Bomber	Wellington	NZ	NZ	21:37
+77	Ron Sielinski	Redmond	WA	US	21:37
+78	Yijie Wang	Bellevue	WA	US	21:40
+79	Niek Hasselaar	Santa Cruz	CA	US	21:46
+80	Jojuane Porter	FORT WORTH	TX	US	21:51
+81	Ryan Bouchard	Ann Arbor	MI	US	21:56
+81	Matthew Hetrick	Seattle	WA	US	21:56
+83	Charles Gautier	Seattle	WA	US	21:57
+84	Ian Huff	Redmond	WA	US	22:00
+85	Peter Carlin	Seattle	WA	US	22:02
+86	Todd Frantz	Rochester Hills	MI	US	22:06
+87	Andrew Cui	San Jose	CA	US	22:13
+88	Kevin Pilch	Everett	WA	US	22:14
+89	Jack Keais	Marine City	MI	US	22:15
+90	Joel Graves	Moses Lake	WA	US	22:16
+91	Alli Esker	Dallas	TX	US	22:17
+92	Smart Kamolratanapiboon	Westwood	MA	US	22:20
+93	Kfir Ami-ad	Redmond	WA	US	22:21
+94	Patrick Gan	Salem	MA	US	22:25
+94	Kevin Mulholland	Kirkland	WA	US	22:25
+96	Eric Pegors	Fargo	ND	US	22:29
+97	Victor Xia	Lynnwood	WA	US	22:31
+98	Santosh Nepal	Morrisville	NC	US	22:31
+99	Michael Przyborowski	Westmont	IL	US	22:33
+100	Laura Groebner	Brentwood	CA	US	22:34
+101	Saurabh Singh	Bellevue	WA	US	22:35
+102	Stan Dopps	ISSAQUAH	WA	US	22:35
+103	Boris Weinfurt	Seattle	WA	US	22:36
+104	Jonathan Martin	Seattle	WA	US	22:37
+104	Bill Snider	Mars	PA	US	22:37
+106	Andrew Cook	Woodinville	WA	US	22:38
+107	Brandon Bohlen	Seattle	WA	US	22:40
+108	Ilan Mazor	Redmond	WA	US	22:40
+109	Palle Petersen	Seattle	WA	US	22:42
+110	Jeff Teper	Medina	WA	US	22:45
+111	Taylor Rielly	Seattle	WA	US	22:49
+112	Marc-Antoine Fontenelle	Seattle	WA	US	22:49
+113	Idan Shani	Sammamish	WA	US	22:52
+114	Antonio Goncalves	Seattle	WA	US	22:53
+115	Nadine Johnson	North Andover	MA	US	22:53
+116	Max Fischer	Seattle	WA	US	22:54
+117	Bryan Jimenez	Seattle	WA	US	22:54
+118	Karlene Bringemeier	Kirkland	WA	US	22:54
+118	Anders Zwartjes	Seattle	WA	US	22:54
+120	Diane Cicero	Lake Forest Park	WA	US	22:55
+121	Forrest Dillaway	Kenmore	WA	US	22:57
+122	Roslyn Lu	Bellevue	WA	US	22:57
+123	Benjamin Stolovitz	Seattle	WA	US	22:58
+124	Dan Stavins	Seattle	WA	US	23:00
+125	Eimhin McManus	Kirkland	WA	US	23:01
+126	Kevin Brice	Bellevue	WA	US	23:01
+126	Luis Moctezuma	Seattle	WA	US	23:01
+128	Gary Thompson	Edmonds	WA	US	23:02
+129	Gokul Premraj	Atlanta	GA	US	23:03
+130	Catherine Harley	Seattle	WA	US	23:04
+131	Timothy Daniel	SEATTLE	WA	US	23:04
+132	Carolina Hernandez	Seattle	WA	US	23:08
+132	Maria Rodriguez	houston	TX	US	23:08
+134	Andres Hernandez	Seattle`	WA	US	23:10
+135	Scott McBride	Seattle	WA	US	23:11
+136	Derek Brawders	THompson's Station	TN	US	23:12
+136	Matt Morgan	Seattle	WA	US	23:12
+138	Sarah Hanses	Seattle	WA	US	23:13
+139	Janet Lennon-Jones	Redmond	WA	US	23:13
+140	Mitch Leppo	Seattle	WA	US	23:15
+140	Sal Talluto	Hoffman Estates	IL	US	23:15
+142	Geoff Keniry	Medway	MA	US	23:17
+143	Scott Counts	SEATTLE	WA	US	23:18
+144	Skye Pazuchanics	Duvall	WA	US	23:19
+145	Yamil Palma	redmond	WA	US	23:20
+146	Erica Capozzi	Penfield	NY	US	23:20
+147	Basharat Wani	Bothell	WA	US	23:21
+148	Christina Koehn	Woodinville	WA	US	23:22
+149	Travis Allard	Colorado Springs	CO	US	23:23
+150	Shubham Sharma	Seattle	WA	US	23:25
+151	Benjamin Jones	Redmond	WA	US	23:25
+152	Jianfeng Cai	Redmond	WA	US	23:27
+153	David Gestaut	Kenmore	WA	US	23:30
+154	Alicia Morse	Newbury	NH	US	23:30
+155	Bradley McGraw	Highlands Ranch	CO	US	23:30
+156	Jaycen Conrad	Elizabethtown	PA	US	23:32
+157	Michael Hanley	Seattle	WA	US	23:32
+158	Ian Skop	San Antonio	TX	US	23:33
+159	Sebastian De la Chica	Woodinville	WA	US	23:33
+160	Marianela Ramsdell	Madeira Beach	FL	US	23:34
+160	Jeffrey Tabor	PITTSBURGH	PA	US	23:34
+162	Michael Gurley	Alpharetta	GA	US	23:35
+163	Steven Mohr	North Bend	WA	US	23:35
+164	Greg Dunham	Redmond	WA	US	23:37
+165	Ibrahim Ismail	Kirkland	WA	US	23:40
+166	Sarah Alvarado	Seattle	WA	US	23:41
+167	Ethan Trinh	Seattle	WA	US	23:42
+168	Matt Boersma	Boulder	CO	US	23:42
+169	Michael Anderson	Colorado Springs	CO	US	23:47
+170	Jeremy Peach	Charlotte	NC	US	23:47
+171	Craig Cuthbert	Carnation	WA	US	23:48
+172	Scott Phibbs	Bothell	WA	US	23:48
+173	Patrick Gan	Salem	MA	US	23:50
+174	Rebecca Christiansen	Portland	OR	US	23:51
+175	Noel Zayas	Redmond	WA	US	23:51
+176	Scott Mosier	Bellevue	WA	US	23:52
+177	Annika Ushio	Seattle	WA	US	23:53
+178	Jordan Hamanishi	Bothell	WA	US	23:54
+179	Holly Pollock	Woodinville	WA	US	23:57
+179	Brian Skop	San Antonio	TX	US	23:57
+181	Beth Mantey	Redmond	WA	US	23:58
+182	Tristan Breyer	Normandy Park	WA	US	23:58
+183	Doss Walters	Seattle	WA	US	23:58
+184	Pierce Pape	Redmond	WA	US	23:58
+185	Christopher Amert	Durham	NC	US	24:00
+186	Ken Bertram	Commerce Twp	MI	US	24:01
+187	Ty Ragland	Seattle	WA	US	24:02
+188	Mislav Magerl	Seattle	WA	US	24:02
+189	Richard Hayes	Redmond	WA	US	24:04
+190	Lisa Mueller	kirkland	WA	US	24:04
+191	Logan Adams	Edgewood	WA	US	24:05
+192	Alena Bubniak	Garden City	NY	US	24:07
+193	Manuel Valenzuela	Redmond	WA	CL	24:11
+194	Brandon McGrath	Boca Raton	FL	US	24:12
+195	Ivan Ariza	Seattle	WA	US	24:12
+196	Mai Dang	Redmond	WA	US	24:13
+197	Padmanaban Ragavan	Sammamish	WA	US	24:14
+198	Bill Fuerstenberg	Fall City	WA	US	24:14
+199	Kristin Petchnick	Seattle	WA	US	24:15
+200	Syed Hasnain	Seattle	WA	US	24:15
+201	Kevin Lavery	Aurora	IL	US	24:16
+202	Gerardo Villarreal	Woodinville	WA	US	24:16
+203	James Manuel	Bellevue	WA	US	24:18
+204	Jerome Vasseur	Bothell	WA	US	24:20
+205	Dietmar Rabel	REDMOND	WA	US	24:21
+206	Aviral Takkar	Blacksburg	VA	US	24:21
+207	Amanda Bennett	SOUTH PASADENA	CA	US	24:22
+208	Carolyn Borowski	Bellevue	WA	US	24:26
+209	Vasco Veiga	Redmond	WA	US	24:30
+210	Peter Baer	Bothell	WA	US	24:30
+211	Paul Black	Mill Creek	WA	US	24:31
+212	Jason Hogg	Kirkland	WA	US	24:32
+213	Matthew Jones	Charlotte	NC	US	24:36
+214	Prerak Patel	Seattle	WA	US	24:37
+215	Selva Nalliah	Kirkland	WA	US	24:38
+216	Jason Homewood	Brookshire	TX	US	24:38
+217	Robert Greenall	Fort Collins	CO	US	24:39
+218	Eric Todd	Bordentown	NJ	US	24:43
+219	Garrett Curtis	Newcastle	WA	US	24:43
+219	Chris Huynh	Grand Prairie	TX	US	24:43
+221	Kevin Dobey	Woodinville	WA	US	24:44
+222	Anson Horton	KIRKLAND	WA	US	24:44
+223	Zoltan Harmath	Redmond	WA	US	24:45
+224	Amos Dunn	Bellevue	WA	US	24:45
+225	Prathik Sannecy	Vancouver	WA	US	24:45
+226	Scott Buth	Austin	TX	US	24:46
+226	Craig Taylor	Bellevue	WA	US	24:46
+228	Grant Earl	Dana Point	CA	US	24:47
+229	Meghan Kearney	Seattle	WA	US	24:48
+230	Todd Mersch	San Diego	CA	US	24:49
+231	James Sfekas	Seattle	WA	US	24:49
+232	Jordan Elder	Redmond	WA	US	24:49
+233	Ziyue Zhang	Seattle	WA	US	24:49
+234	Shabir Grover	Bellevue	WA	US	24:50
+235	Samantha Buchon	Kirkland	WA	US	24:51
+236	Chase Martin	Seattle	WA	US	24:52
+237	Caleb Tseng	Mountain View	CA	US	24:52
+238	Jeffery Mitchell	Duvall	WA	US	24:53
+239	Winston Liu	Knoxville	TN	US	24:53
+240	Ethan Shernan	Issaquah	WA	US	24:54
+240	Brandon Storey	Seattle	WA	US	24:54
+242	Christopher Chivetta	Seattle	WA	US	24:55
+243	Joanie Allaire	Kirkland	WA	US	24:55
+243	Shawn Chang	Davis	CA	US	24:55
+245	David Sidler	Seattle	WA	US	24:56
+246	Andreas Eulitz	Seattle	WA	US	24:56
+247	Andrew Thibodeau	Bellevue	WA	US	24:57
+248	Craig Miller	Kirkland	WA	US	24:57
+249	Mehmet Iyigun	Kirkland	WA	US	24:59
+250	Ryan Honig	Seattle	WA	US	25:00
+251	Elenthendral Shunmughasundaram	SAMMAMISH	WA	US	25:02
+252	Matthew Green	Hawley	MN	US	25:03
+253	Nicole Gump	Indianapolis	IN	US	25:05
+254	Sarah DeAtley	Redmond	WA	US	25:05
+255	Mathew Williams	Sammamish	WA	US	25:06
+256	Shawn Brown	Sammamish	WA	US	25:08
+257	Robert Curtin	Winchester	MA	US	25:08
+258	Jeff Hebrank	Woodinville	WA	US	25:08
+259	Sean Conroy	Arlington	VA	US	25:08
+260	Courtney Benson	Chicago	IL	US	25:09
+261	Jeff Huget	San Jose	CA	US	25:12
+262	Keshav Prasad	Bellevue	WA	US	25:12
+263	Xiaowen Yan	SAN BRUNO	CA	US	25:12
+264	Azeen Chamarbagwala	Santa Clara	CA	US	25:12
+265	Catherine Zacharias	Hartland	WI	US	25:13
+266	Erik Wu	Bellevue	WA	US	25:14
+267	Pat McGannon	Seattle	WA	US	25:15
+268	Danielle Beniulis	Lake Hopatcong	NJ	US	25:15
+269	Sherry Shi	Bellevue	WA	US	25:15
+270	Rushmi Malaviarachchi	Bellevue	WA	US	25:16
+271	Josh Lingerfelt	Duvall	WA	US	25:17
+272	Gregg Hohman	Bellevue	WA	US	25:17
+272	Miguel Angel Soto Espinoza	Mexico City	Distrito Federal	MX	25:17
+274	Krystian Walec	Sammamish	WA	US	25:20
+275	Brian O'Neill	Carnation	WA	US	25:20
+276	Joel Lara Quintana	Bellevue	WA	US	25:26
+277	Kevin Ly	Bellevue	WA	US	25:27
+278	Matthew Weidman	Bellevue	WA	US	25:28
+279	Kunal Mahajan	Seattle	WA	US	25:28
+280	Melinda Dobey	Woodinville	WA	US	25:28
+281	Nathan Weigel	Seattle	WA	US	25:28
+282	Adam Deis	Seattle	WA	US	25:29
+283	Abid Rahman	Seattle	WA	US	25:29
+284	Andrew Jones	Indian Land	SC	US	25:29
+285	Bill Johnson	Snoqualmie	WA	US	25:30
+286	John Degel	Woodinville	WA	US	25:30
+286	Hemant Goyal	Redmond	WA	US	25:30
+286	Melinda Van Honschooten	Bellevue	WA	US	25:30
+289	Shelly Henry	SEATTLE	WA	US	25:31
+289	Frederic Joseph	Bellevue	WA	US	25:31
+291	Derrick Sylvester	Center Line	MI	US	25:33
+292	Lakshay Sharma	Seattle	WA	US	25:34
+293	Samantha Polsky	Seattle	WA	US	25:36
+293	Heidi Poppe	Seattle	WA	US	25:36
+295	Srivatsan Kidambi	Redmond	WA	US	25:37
+296	Mohamed El Tahawy	Cambridge	MA	US	25:38
+297	Michael Roberts	Parker	CO	US	25:39
+298	Anny Zhang	Bellevue	WA	US	25:39
+299	Malachi Evans	decatur	GA	US	25:40
+300	Scott Frazer	Cary	NC	US	25:41
+300	Geoff Innis	Duvall	WA	US	25:41
+302	Scott Battaglia	Dallas	TX	US	25:49
+303	Mike Brewer	Renton	WA	US	25:51
+304	Alissa Polucha	Sammamish	WA	US	25:52
+305	Kyle Johnson	Fargo	ND	US	25:52
+306	Blaze Kotsenburg	Seattle	WA	US	25:53
+307	Ana Gurdian	Miami	FL	US	25:54
+308	Evan Bruskin	Seattle	WA	US	25:54
+309	Pavel Metrikov	Bellevue	WA	US	25:56
+310	Sarah Hannibal	Washington	DC	US	25:57
+311	James Fleming	GREENWICH	CT	US	25:57
+311	Amy Josefczyk	SEATTLE	WA	US	25:57
+313	Ronny Lempel	Redmond	WA	US	25:58
+314	James Dykas	The Woodlands	TX	US	25:58
+315	Ted Kanluen	Chicago	IL	US	26:00
+316	Katherine Markowski	Charleston	SC	US	26:01
+317	Kevin Cole	SEATTLE	WA	US	26:02
+318	Blake Nelson	Seattle	WA	US	26:04
+319	Charlotte Zukauckas	Seattle	WA	US	26:04
+320	Kayla Ames	Seattle	WA	US	26:07
+321	Michael Saul	Long Beach	CA	US	26:07
+322	Asher Epstein	Fairfield	CT	US	26:10
+323	Debbie Walsh	Portland	OR	US	26:10
+324	Dengshan Yuan	Redmond	WA	US	26:11
+325	Andrew Strutzel	Woodinville	WA	US	26:12
+326	Al Trivison	Seattle	WA	US	26:12
+327	Lenny Fenster	Glen Mills	PA	US	26:13
+327	Geof Sawaya	SEATTLE	WA	US	26:13
+329	Daniel Monroy	Bellevue	WA	US	26:14
+330	Si Li	Richmond	BC	CA	26:15
+331	Zohar Raz	Redmond	WA	US	26:15
+331	Robert Rowe	Boyertown	PA	US	26:15
+333	Troy Nguyen	Lincoln	NE	US	26:16
+334	Will Brandt	Fargo	ND	US	26:16
+335	David Westhoff	Redmond	WA	US	26:17
+336	Wayne Meyer	REDMOND	WA	US	26:21
+337	Kirill Varshavskiy	Seattle	WA	US	26:23
+338	Mark Torstenson	Milford	NJ	US	26:23
+339	Chris Borowski	Bellevue	WA	US	26:25
+339	Liam Callahan	Kirkland	WA	US	26:25
+339	Caroline Goles	KIRKLAND	WA	US	26:25
+342	Matt Rossmeissl	Medina	WA	US	26:27
+343	Liberty Munson	Redmond	WA	US	26:29
+344	Julie Olden	Seattle	WA	US	26:31
+345	Andrea Russo	Johnston	RI	US	26:32
+346	Katherine Acone	Bellevue	WA	US	26:33
+347	Audrey Newman	Seattle	WA	US	26:34
+348	Jason Shirley	Redmond	WA	US	26:34
+349	Mengqi Yao	Bellevue	WA	US	26:35
+350	Maggie May	Puyallup	WA	US	26:35
+351	Pablo Arellano	Riverview	FL	US	26:36
+352	Brian Calvery	Kirkland	WA	US	26:37
+353	John Wilcock	Bellevue	WA	US	26:38
+354	Cameron DeBay	Issaquah	WA	US	26:39
+355	Eli Lipstein	Redmond	WA	US	26:40
+356	Gilberto Cervantes	Mexico	CDMX	MX	26:40
+357	Shane Solomon	Redmond	WA	US	26:42
+358	Cat Yao	Sammamish	WA	US	26:42
+359	Jeremy Reynolds	Boulder	CO	US	26:43
+360	James Kirkpatrick	Herndon	VA	US	26:44
+361	Jean Paul Larach	Miami	FL	US	26:46
+362	Natalie Jensen	Chino Hills	CA	US	26:49
+362	Stephanie Jensen	Chino Hills	CA	US	26:49
+362	Andrew McKinney	Redlands	CA	US	26:49
+365	Kyubin Lee	Seattle	WA	US	26:50
+366	Jeff Cochran	Redmond	WA	US	26:50
+367	Clayton Butler	Seattle	WA	US	26:51
+368	Katie Zoller	Kirkland	WA	US	26:51
+369	Nancie Gaskill	Redmond	WA	US	26:52
+370	Nicole Herskowitz	Kirkland	WA	US	26:52
+371	Trevor Nies	Sammamish	WA	US	26:56
+372	Thorsten Ganz	Sammamish	WA	US	26:58
+373	Andrew Carson	Kirkland	WA	US	26:58
+374	David Ward	Monroe	WA	US	26:59
+375	Catherine Zhu	Seattle	WA	US	26:59
+376	Eric Xia	Lynnwood	WA	US	27:00
+377	Bahram Ali Zadeh	Duluth	GA	US	27:01
+377	Kim Slee	Bothell	WA	US	27:01
+379	Alison Heeter	Redmond	WA	US	27:03
+380	Ted Eckert	Issaquah	WA	US	27:03
+381	John Ruf	Seattle	WA	US	27:03
+382	Miranda Larson	Addison	TX	US	27:04
+383	Cody Storm	Durham	NC	US	27:05
+384	Simon Diesenreiter	Seattle	WA	US	27:05
+385	David Carmona	REDMOND	WA	US	27:06
+386	Darren Gonzales	Monroe	WA	US	27:06
+387	Annie Desaulniers	Bothell	WA	US	27:07
+388	Yunsheng Qi	Redmond	WA	US	27:07
+389	Joao Bilhim	Singapore	Singapore	SG	27:08
+390	Adam Coleman	Redmond	WA	US	27:09
+391	Daniel Keymer	Bellevue	WA	US	27:09
+392	Manny Velez	Warren	MI	US	27:09
+393	Scott Graff	Seattle	WA	US	27:11
+394	Thiery Uribe Banda	Redmond	WA	US	27:12
+395	SAchin Phadke	KIRKLAND	WA	US	27:12
+396	Paul Bozzay	Denver	CO	US	27:14
+397	Yayan Zhang	Seattle	WA	US	27:15
+398	Richard Campbell	Austin	TX	US	27:15
+399	Nicholas Spinelli	Seattle	WA	US	27:16
+400	James Major	Newcastle	WA	US	27:17
+401	Nate Nef	Lynnwood	WA	US	27:17
+402	Christina Thoresen	Seattle	WA	US	27:18
+403	Daniel Henderson	katy	TX	US	27:19
+404	Manu Jeewani	Duvall	WA	US	27:20
+405	Namita Balachander	Seattle	WA	US	27:22
+406	Cary Dubinsky	Kenmore	WA	US	27:23
+407	Raghavendra Bhuthpur	Sammamish	WA	US	27:25
+408	David Foulke	Haymarket	VA	US	27:30
+409	Anibal Pinho	Celina	TX	US	27:30
+410	Alberto Mendoza	Dallas	TX	US	27:31
+411	Gaurav Singh	Issaquah	WA	US	27:32
+412	Roberto Rodriguez Castro	Kirkland	WA	US	27:32
+413	Bryce Venaas	Fargo	ND	US	27:33
+414	Howard Swerdloff	Loxahatchee	FL	US	27:33
+415	Flavio Gomes	Redmond	WA	US	27:33
+416	Diego Villanueva	Sammamish	WA	US	27:34
+417	Adrian Caulfield	Woodinville	WA	US	27:35
+418	Nicole Foisy	Stanwood	WA	US	27:35
+419	Tobias Wernet	Minneapolis	MN	US	27:36
+420	Rae Lyon	Golden	CO	US	27:36
+421	Andy Langohr	Snohomish	WA	US	27:37
+422	Billy Bernhard	Frisco	TX	US	27:38
+423	Sophia Olson	Everett	WA	US	27:39
+424	Aria Jelinek	Seattle	WA	US	27:39
+425	Benjamin Pagano	Berlin	NJ	US	27:40
+426	Jason Berberich	Grand Forks	ND	US	27:41
+427	Taylor Kennedy	Redmond	WA	US	27:43
+428	Roni Tamir	Newton	MA	US	27:44
+429	Gerardo Naranjo	Weston	FL	US	27:44
+429	Dhanas Raju	Bellevue	WA	US	27:44
+431	Scott Bryant	Wildwood	MO	US	27:45
+432	David Anselmi	Bothell	WA	US	27:45
+432	Dan Jones	Sammamish	WA	US	27:45
+432	Rainer Mellis	Spring	TX	US	27:45
+435	Drew Nicholas	Nashville	TN	US	27:46
+436	Ashley Armstrong	Reno	NV	US	27:46
+437	Jonah Martinez	Redmond	WA	US	27:47
+438	Katie Jones	Redmond	WA	US	27:47
+439	Danny Carrizosa	Phoenix	AZ	US	27:49
+440	Jason Morales	Castle Rock	CO	US	27:49
+441	Jared Karney	"Chicago, IL 60634"	IL	US	27:50
+442	Walt Halasowski	Pittsburgh	PA	US	27:50
+442	Nicolas Moreau	REDMOND	WA	US	27:50
+444	Prasanjeet Jena	Bothell	WA	US	27:51
+445	Marc Dobos	Bloomington	IN	US	27:52
+446	Yong Lee	Redmond	WA	US	27:52
+447	Francesca Leonetti	Seattle	WA	US	27:53
+448	Jenn Strutzel				27:54
+449	Arik Cohen	Bellevue	WA	US	27:56
+449	Matt Drake	Tomball	TX	US	27:56
+449	Mason Drake	Tomball	TX	US	27:56
+452	Achal Shah	Seattle	WA	US	27:57
+453	Jon Guriel	Jersey City	NJ	US	27:57
+454	Trinity Pape	Redmond	WA	US	27:57
+454	Brittany Richardson	Ashburn	VA	US	27:57
+454	Sean Stiffey	Pittsburgh	PA	US	27:57
+457	Shijing Fang	KIRKLAND	WA	US	27:59
+458	Noah Wernet	Minneapolis	MN	US	27:59
+459	Eleni Mouzakis	Seattle	WA	US	28:00
+460	Francis Adereti	Charlotte	NC	US	28:00
+461	Gabriel Weisz	Bethesda	MD	US	28:00
+462	Hether Danforth	Marblehead	MA	US	28:02
+463	Katie Wernet	Minneapolis	MN	US	28:02
+464	Siddhartha Arora	Redmond	WA	US	28:02
+465	Hannah Allen	Revere	MA	US	28:03
+466	Eric Mattoon	Seattle	WA	US	28:03
+466	Michelle Quinton	Kirkland	WA	US	28:03
+468	Erik Wahlstrom	Sammamish	WA	US	28:04
+469	Terry King	Edmonds	WA	US	28:06
+470	Joel Liefke	Langley	WA	US	28:10
+471	Lauren Elkin	Seattle	WA	US	28:12
+472	Andrew Alpert	Highlands Ranch	CO	US	28:13
+473	Annika Helgesen	Bellevue	WA	US	28:13
+473	Kevin Sullivan	Kenmore	WA	US	28:13
+473	Carmen White	Eugene	OR	US	28:13
+476	Stein Helgesen	Bellevue	WA	US	28:14
+477	Daniela Martinez Paz	Seattle	WA	US	28:14
+478	Kamila Rawat	Carnation	WA	US	28:14
+479	Melissa Gildersleeve	Highlands Ranch	CO	US	28:16
+479	Greg Rojas	TAMPA	FL	US	28:16
+481	Nicholas Kaufmann	Woodinville	WA	US	28:17
+482	Nicholas DiCola	Snohomish	WA	US	28:18
+482	Dena McNulty	San Francisco	CA	US	28:18
+482	Robert Semsey	BOTHELL	WA	US	28:18
+485	Carl Atkins	Scottsdale	AZ	US	28:21
+486	Jonas Barklund	Seattle	WA	US	28:21
+487	Justin Dyer	Windham	NH	US	28:21
+488	Chris Rininger	Bainbridge Island	WA	US	28:21
+489	Martin Steinhauer	Chelsea	MI	US	28:21
+490	Zoe Coates	Jersey City	NJ	US	28:22
+491	Erika Proano	Redmond	WA	US	28:22
+492	Christopher Delay	Mooresville	NC	US	28:23
+493	Wei Zeng	KIRKLAND	WA	US	28:23
+494	Daniel Grady	Snoqualmie	WA	US	28:24
+495	Arnold Campos	Woodinville	WA	US	28:24
+496	John Menter	Kirkland	WA	US	28:26
+497	Alexey Razumov	Kirkland	WA	US	28:26
+498	Tianhao Qiu	Redmond	WA	US	28:26
+499	David Stevson	Seattle	WA	US	28:26
+500	Robert Gonzalez	DeBary	FL	US	28:27
+501	Michele Fisher	Kirkland	WA	US	28:27
+502	Eric Van Aelstyn	Seattle	WA	US	28:28
+503	Ian Blaauw	Redmond	WA	US	28:29
+504	Kyle Lundby	Durham	NC	US	28:29
+505	Tomas Weinfurt	Seattle	WA	US	28:30
+506	Marco Ng	Seattle	WA	US	28:30
+507	Brian Shifflett	weyers cave	VA	US	28:30
+508	Estapraq Kahlil	Seattle	WA	US	28:35
+509	Lynnette Cameron	Ponte Vedra Beach	FL	US	28:35
+510	Seth Amera	Elmhurst	NY	US	28:37
+511	Vishnu Bhasker	Allentown	PA	US	28:37
+512	Maggie Kruger	Seattle	WA	US	28:38
+513	Garett Sakamoto	Newcastle	WA	US	28:39
+514	Marc` Waybright	Summit Point	WV	US	28:39
+515	Wayne Clarke	Dana Point	CA	US	28:40
+516	Bertina Loeffler Sedlack	Issaquah	WA	US	28:41
+517	Li Jiang	Kirkland	WA	US	28:42
+518	Chad Gau	Parker	CO	US	28:42
+518	Gordon Tsai	Redmond	WA	US	28:42
+520	Dina Snider	Mars	PA	US	28:43
+521	Tanguy De valence	Sammamish	WA	US	28:45
+522	Mu Han	Clyde Hill	WA	US	28:46
+523	Rachael Devlin	San Jose	CA	US	28:48
+524	Antoni Hanus	San Diego	CA	US	28:48
+525	Kathy Le	Seattle	WA	US	28:48
+525	Joseph Lorich	Denver	CO	US	28:48
+525	Emma Schmidgall	Redmond	WA	US	28:48
+525	Marcus White	BELLEVUE	WA	US	28:48
+529	Junfeng Bai	Duluth	GA	US	28:49
+529	Nicola Templeton	Mercer Island	WA	US	28:49
+529	Tyson Wentz	Redmond	WA	US	28:49
+532	Jamse Chien	MOUNTAIN VIEW	CA	US	28:51
+532	Elizabeth Kronoff	Bellevue	WA	US	28:51
+534	Andrew Kennelly	Redmond	WA	US	28:52
+535	Amy O'Donnell	West Chester	PA	US	28:52
+536	Marisa Brasile	Tampa	FL	US	28:52
+536	Michael Kelley	Poulsbo	WA	US	28:52
+538	Juan Carlos Gonzalez	Sammamish	WA	US	28:53
+539	Doug Dossett	Kenmore	WA	US	28:54
+540	Ying Wories	Bellevue	WA	US	28:56
+541	Jose Duhart	Issaquah	WA	US	28:56
+542	Erin McLaughlin	Kirkland	WA	US	28:56
+543	Robert Pollard	seattle	WA	US	28:57
+544	Changliang Liu	Bellevue	WA	US	29:00
+545	Les Viger	Kirkland	WA	US	29:00
+546	Niranjan Deo	Redmond	WA	US	29:01
+547	Hayden Brown	Belleville	IL	US	29:01
+548	Jason Wilkinson	Allen	TX	US	29:01
+549	Vincent Bersagol	Redmond	WA	US	29:02
+550	Brian Barthel	Avon	CT	US	29:03
+550	Elizabeth Hollern	Mint Hill	NC	US	29:03
+552	Ola Peters	MANSFIELD	TX	US	29:04
+553	Bruce Lennon-Jones	Redmond	WA	US	29:04
+554	Megan Delany	Seattle	WA	US	29:04
+555	Lauri Zadina	Bellevue	WA	US	29:06
+556	Maarja Keder	Redmond	WA	US	29:06
+557	Christina Zickert	Silver Spring	MD	US	29:06
+558	Susan Nitta	Seatle	WA	US	29:06
+559	Avneesh Kaushik	Redmond	WA	US	29:07
+560	Daniel Shifflett	weyers cave	VA	US	29:08
+561	Micah Myerscough	Redmond	WA	US	29:13
+562	Wendy Arnett	Redmond	WA	US	29:13
+563	Stan Kim	San Ramon	CA	US	29:18
+564	Lin Yang	Sammamish	WA	US	29:19
+565	Tong Jiang	Seattle	WA	US	29:19
+566	Justin LaFemina	Seattle	WA	US	29:20
+567	Kyle Mininni	Kenmore	WA	US	29:21
+568	Hironobu Nakasuji	Bellevue	WA	US	29:21
+569	Shara Holliday	Bellevue	WA	US	29:21
+570	Gain Jue	Seattle	WA	US	29:24
+571	Megan Hull	Redmond	WA	US	29:24
+572	Joseph Callans	Issaquah	WA	US	29:27
+573	Greg Baribault	Sammamish	WA	US	29:27
+574	Hao Zou	San Jose	CA	US	29:28
+575	Thad Scott	Kirkland	WA	US	29:28
+576	Kimberly Kollwitz	Durham	NC	US	29:28
+577	Irina Smoke	Bothell	WA	US	29:29
+578	Mike Behn	Snoqualmie	WA	US	29:30
+579	Ryan Anderson	Bozeman	MT	US	29:30
+580	Rebekah Midkiff	Bothell	WA	US	29:30
+580	Scott Sawyer	Norton	MA	US	29:30
+580	Vicky Sowell	Duvall	WA	US	29:30
+580	Ted Way	Redmond	WA	US	29:30
+584	Mykola Lando	Bellevue	WA	US	29:31
+585	Jil Michael	Seattle	WA	US	29:31
+586	Rocio Hernandez	Mexico	CDMX	MX	29:33
+586	Bob Wille	Cincinnati	OH	US	29:33
+588	Heather Crew	Seattle	WA	US	29:34
+589	David Prien	Redmond	WA	US	29:34
+590	Steve Reinhardt	Vancouver	WA	US	29:36
+591	Jeff Martin	Mooresville	NC	US	29:38
+592	Sourabh Shirhatti	Allen	TX	US	29:39
+593	Kareem Choudhry	Woodinville	WA	US	29:39
+594	Brig Lamoreaux	Queen Creek	AZ	US	29:40
+595	Kristin McLaughlin	Sammamish	WA	US	29:40
+596	Dave Willis	Glen Allen	VA	US	29:41
+597	Prasandeep Singh	Bellevue	WA	US	29:41
+598	Sukumar Durairaj	Kendall Park	NJ	US	29:41
+599	Justin Wang	Duluth	GA	US	29:41
+600	Randy Fougere	Snoqualmie	WA	US	29:41
+601	Saul Gomez Cota	Redmond	WA	US	29:42
+602	Dee Dee Lennon-Jones	Redmond	WA	US	29:42
+603	Portia Botchway	Bellevue	WA	US	29:43
+603	Anna Pfoertsch	Seattle	WA	US	29:43
+605	Faisal Ahmed	Bothell	WA	US	29:44
+606	Valerie Carricaburu	Bellevue	WA	US	29:44
+607	Magdalena Kalowska	Redmond	WA	US	29:44
+608	Duane Kamihara	Issaquah	WA	US	29:45
+609	Eric Haldane	San Marcos	CA	US	29:47
+609	Navin Thadani	Sammamish	WA	US	29:47
+611	Kenneth Chan	Kirkland	WA	US	29:48
+612	Jonathan Figueroa	Allen	TX	US	29:49
+613	Rakesh Ravi Shankar	Kirkland	WA	US	29:49
+614	Tina Ying	Seattle	WA	US	29:50
+615	Jeff Dawe	Kirkland	WA	US	29:50
+616	Caleb Whitmore	seattle	WA	US	29:51
+617	DJ Cole	Sammamish	WA	US	29:51
+618	Scott Munro	SEATTLE	WA	US	29:52
+619	Liz Lohman	Frontenac	MO	US	29:52
+620	Shane Davis	Philadelphia	PA	US	29:53
+621	Jonathan Liu	Seattle	WA	US	29:53
+622	Ed Chase	SEATTLE	WA	US	29:53
+623	Emilienne Moll	Bothell	WA	US	29:54
+624	Rebecca Wilson	Fayetteville	AR	US	29:55
+625	Slava Agafonov	Seattle	WA	US	29:56
+626	Audrey Sniezek	REDMOND	WA	US	29:57
+627	Melissa Kidwell	Redmond	WA	US	29:58
+628	Aaron Merrill	Covington	WA	US	29:58
+629	Guy Merin	Redmond	WA	US	29:58
+629	Joe Stamper	Bellevue	WA	US	29:58
+631	Sergio Olivarez	Sierra Vista	AZ	US	29:59
+632	Matthew Sekol	Walnutport	PA	US	29:59
+633	Natalie Anillo	Buffalo	NY	US	29:59
+633	Scott Guettinger	Seattle	WA	US	29:59
+633	David Hanna	Benton	KY	US	29:59
+636	Oliver Andrews	Gilbert	AZ	US	30:00
+636	Fabian Badillo	Redmond	WA	US	30:00
+636	Grace Canby	Seattle	WA	US	30:00
+636	Kavita Kamani	Redmond	WA	US	30:00
+636	José Lara	Redmond	WA	US	30:00
+636	Vickie Robinson	"Washington, D.C."	MD	US	30:00
+642	Mitali Jain	Seattle	WA	US	30:01
+643	Paul Johns	Tacoma	WA	US	30:02
+644	Asvin Ananthanarayan	Sammamish	WA	US	30:02
+645	Jack Jia	Mill Creek	WA	US	30:02
+646	Richard Lang	Chicago	IL	US	30:03
+647	Pruthvish Panakanti	Redmond	WA	US	30:03
+648	Cynthia Hanna	Benton	KY	US	30:03
+649	Tim Hamby	Ashburn	VA	US	30:05
+650	Angela Robertson	Redmond	WA	US	30:05
+651	Loredana Gavrilescu	Redmond	WA	US	30:05
+652	Yoon Soo Pyon	Bellevue	WA	US	30:07
+653	Sonja Kellen	Kirkland	WA	US	30:08
+654	Lu Li	BELLEVUE	WA	US	30:08
+655	David Taylor	Tulsa	OK	US	30:08
+656	Catherine McIntosh	Seattle	WA	US	30:10
+657	Liz Hartwell	Seattle	WA	US	30:11
+658	Emily Wang	Issaquah	WA	US	30:13
+659	Debbie Thiel	Redmond	WA	US	30:13
+660	Maggie Shen	Issaquah	WA	US	30:16
+661	Siva Sivaraman	Redmond	WA	US	30:16
+662	Brittany Mederos	Santa Clara	CA	US	30:17
+663	Will Murphy	Dallas	TX	US	30:18
+664	Rahul Jain	Southlake	TX	US	30:19
+665	Rebecca Cowen	Geneva	IL	US	30:20
+666	David Hsiao	Seattle	WA	US	30:21
+667	Zachary Satira	Kirkland	WA	US	30:21
+667	Jaclyn Satira	Kirkland	WA	US	30:21
+669	Andy Ashworth	Bentonville	AR	US	30:23
+670	Maureen Halsema	Seattle	WA	US	30:27
+670	Brian Lehr	Seattle	WA	US	30:27
+670	Divij Sahijwani	Blacksburg	VA	US	30:27
+670	Kevin Temp	Snoqualmie	WA	US	30:27
+674	Benjamin Bush	Redmond	WA	US	30:28
+675	Dimitrios Ilias Gkanatsios	Bellevue	WA	US	30:29
+676	Scott Hulke	Argyle	TX	US	30:32
+677	Krishnan Sundaram	Bellevue	WA	US	30:32
+678	Adetayo Adegoke	Chicago	IL	US	30:32
+679	Alida Mendes	Seattle	WA	US	30:33
+679	Jeannie Roth	Sammamish	WA	US	30:33
+681	Hani Shakeel	Seattle	WA	US	30:34
+682	Alexa Huerta	Bellevue	WA	US	30:35
+683	Chowdhury Yeameen	Issaquah	WA	US	30:35
+684	Kathy Lim	Los Angeles	CA	US	30:35
+685	Miguel Morales	Austin	TX	US	30:35
+686	Regis Rutarindwa	Bellevue	WA	US	30:36
+687	Mauro Lai	Cary	NC	US	30:36
+688	Magdalena Walec	Sammamish	WA	US	30:39
+689	Kristin Lee	Seattle	WA	US	30:39
+690	Shawna Hall	Renton	WA	US	30:39
+691	Bruce Moss	Seattle	WA	US	30:40
+692	Julia Kollin	Livingston	NJ	US	30:40
+693	Stephen Owen	marietta	GA	US	30:40
+694	Clive Northey	District Heights	MD	US	30:40
+695	Perla Morales	Bellevue	WA	US	30:40
+696	Deepthi Rao	Bellevue	WA	US	30:41
+697	Ali Primrose	North Bend	WA	US	30:42
+698	John Holton	Lamy	NM	US	30:43
+699	Carli Stein	Beverly Hills	CA	US	30:44
+700	Angela Donohue	Seattle	WA	US	30:44
+701	Ginny Hoban	Bellevue	WA	US	30:46
+702	Arati Nene	Redmond	WA	US	30:46
+703	Brian Canfield	Kirkland	WA	US	30:46
+704	Anirudh Saria	Redmond	WA	US	30:46
+705	Luinil Torres	Redmond	WA	US	30:46
+706	Paul Ratajczyk	Champlin	MN	US	30:47
+707	Kevin Loh	Monmouth County	NJ	US	30:47
+708	Tina Owens	Carnation	WA	US	30:48
+709	Amanda Klein	Mound	MN	US	30:49
+710	Lisa Green-Pope	ELLICOTT CITY	MD	US	30:50
+711	Ryn Howland	Redmond	WA	US	30:52
+711	Daniel Perkins	Redmond	WA	US	30:52
+713	Ashley Cohn	Los Angeles	CA	US	30:53
+714	Aaron Fleming	San Diego	CA	US	30:53
+715	Gavin Gurley	Johns Creek	GA	US	30:53
+716	Yong Ni	Bothell	WA	US	30:54
+717	Senthil Palanisamy	Kenmore	WA	US	30:57
+718	Hector Arriaga Pineda	Lynnwood	WA	US	30:59
+719	Lanie Finlayson	Charlotte	NC	US	31:00
+719	Timo Makiniemi	Sammamish	WA	US	31:00
+721	Travis Johnson	Duvall	WA	US	31:01
+722	Diana Parker	Carnation	WA	US	31:01
+723	Kaitai Zhang	Bellevue	WA	US	31:03
+724	Bruce Bogard	Woodinville	WA	US	31:03
+725	Shala Brandolini	Bothell	WA	US	31:04
+726	Sarah Faller	seattle	WA	US	31:04
+726	Melissa Rindt	Friday Harbor	WA	US	31:04
+728	Sushanth Krishnaswamy	Jersey City	NJ	US	31:05
+729	Aalap Chikhalikar	Seattle	WA	US	31:05
+729	Sung Yun Chung	Bellevue	WA	US	31:05
+729	Kuan Peng	Bellevue	WA	US	31:05
+729	Pascal Walschots	Sammamish	WA	US	31:05
+733	Keisha James	Williamsburg	VA	US	31:06
+734	Tristan Gibeau	ISSAQUAH	WA	US	31:07
+735	Ed Wojtowicz	Newington	CT	US	31:07
+736	Heather Blersch	Centreville	VA	US	31:08
+737	Aimee Tagle	Seattle	WA	US	31:08
+738	Deni Bouneva	Seattle	WA	US	31:08
+738	Mark Perry	LANCASTER	SC	US	31:08
+740	Nathalie D'Hers	Redmond	WA	US	31:10
+741	Ayelet Mazor	Redmond	WA	US	31:12
+742	Dustin Rusan	Belleville	IL	US	31:13
+743	Eric Kamont	NC	NC	US	31:14
+744	Kadri Tahsildoost	Bellevue	WA	US	31:15
+745	Claire Gibeau	ISSAQUAH	WA	US	31:15
+746	Arvind Chandaka	Somerset County	NJ	US	31:15
+747	Debra Ward	Monroe	WA	US	31:16
+748	Chris Lindberg	Barrington	IL	US	31:16
+749	Chetan Mutalik Desai	Redmond	WA	US	31:17
+750	Malli Vangala	Redmond	WA	US	31:17
+751	Gaylord Escalona	Sammamish	WA	US	31:20
+752	Somanath Krishnaswamy	Bothell	WA	US	31:23
+753	Edgar Sanchez	Phoenix	AZ	US	31:23
+754	Darcy Hoban	Hawley	MN	US	31:25
+755	Rona Williamson	Redmond	WA	US	31:25
+756	Tom Gallagher	Granite Falls	WA	US	31:26
+757	Shane Groff	Redmond	WA	US	31:29
+758	Luke Kim	Bellevue	WA	US	31:29
+759	Pragyan Paudel	Kirkland	WA	US	31:30
+760	Alexandru Herman	Bellevue	WA	US	31:32
+761	Jeff Sullivan	Bellevue	WA	US	31:32
+762	Jennifer Yokoyama	Kirkland	WA	US	31:34
+763	James Lee	Seattle	WA	US	31:35
+764	Ravenna Li	Kirkland	WA	US	31:36
+765	Rene Martinez	Sammamish	WA	US	31:37
+765	James Watts	Sammamish	WA	US	31:37
+767	Ankur Sharma	Seattle	WA	US	31:38
+768	Christina Verdurmen	York	ON	CA	31:38
+769	Anouk Pape	Redmond	WA	US	31:40
+770	Tanmay Randhavane	REDMOND	WA	US	31:43
+771	Chris Stackhouse	Bothell	WA	US	31:45
+772	Justin Libis	Fargo	ND	US	31:46
+773	Kathleen Baker	Seattle	WA	US	31:46
+774	Rudy Gil	Redmond	WA	US	31:47
+775	Kristin Horvath	Greenville	SC	US	31:47
+776	Luke Bordonaro	Redmond	WA	US	31:50
+777	Doug Brennan	Columbus	OH	US	31:50
+777	Karl Noakes	North Bend	WA	US	31:50
+777	David Qin	Sammamish	WA	US	31:50
+780	Mark Slater	North Bend	WA	US	31:51
+781	Doug Gabbard	Lawrenceburg	IN	US	31:52
+782	Bhanuprasad Neti	Bothell	WA	US	31:54
+783	Ryan Ching	Chambersburg	PA	US	31:57
+784	Andrew Beadle	Sammamish	WA	US	31:58
+785	Ben Lichtman	Seattle	WA	US	31:59
+786	David Cobb	Raleigh	NC	US	31:59
+786	Janelle Marturano	Manorville	NY	US	31:59
+786	Steven Marturano	Manorville	NY	US	31:59
+789	Usha Gunaseelan	BOTHELL	WA	US	32:00
+789	Seret Rafferty	Hurricane	UT	US	32:00
+791	Matt Wilson	Mukilteo	WA	US	32:03
+792	I Ricardo De B Siqueira	Parkland	FL	US	32:07
+793	Mallory Monsma	Bellevue	WA	US	32:07
+794	Jim Clack	Seattle	WA	US	32:10
+794	Grace Clack	Seattle	WA	US	32:10
+796	Linda Dominguez	Seattle	WA	US	32:12
+797	James Montemagno	Bend	OR	US	32:13
+798	Andrea Grieco	Redmond	WA	US	32:14
+799	Michelle Lumpkin	Duluth	GA	US	32:14
+800	Jeff Wahl	St. Petersburg	FL	US	32:15
+801	Dishank Shah	Seattle	WA	US	32:15
+802	Grace Culver	Seattle	WA	US	32:16
+803	Vivek Kumar	Redmond	WA	US	32:17
+804	Sameehita Mohan	Seattle	WA	US	32:18
+805	Diego Tamburini	North Bend	WA	US	32:20
+806	Sara Donahue	Seattle	WA	US	32:21
+807	Antriksh Agarwal	Dallas	TX	US	32:24
+808	Brian Salvador	SEATTLE	WA	US	32:27
+809	Kristin Deal	Woodinville	WA	US	32:27
+810	Jasmine Klar	Seattle	WA	US	32:27
+811	Julio Mendez	Seattle	WA	US	32:28
+812	Tom Lorusso	Bothell	WA	US	32:29
+813	Elaine Bautista	Bothell	WA	US	32:30
+814	Brad Larsen	Bonney Lake	WA	US	32:33
+815	Kathy DeCaprio	Issaquah	WA	US	32:34
+816	Anne Wilbur	Cle Elum	WA	US	32:36
+817	Aditya Varma	seattle	WA	US	32:36
+818	Jessica Green	Hawley	MN	US	32:37
+819	Robin Hanel	Billings	MT	US	32:38
+820	Joseph Chiang	Redmond	WA	US	32:39
+821	Kendal Mazzocco	Seattle	WA	US	32:40
+822	Erin Flaucher	Carnation	WA	US	32:41
+823	Mario Liu	Bellevue	WA	US	32:43
+824	Sally Medling	Cary	NC	US	32:43
+825	William Bay	Worden	IL	US	32:44
+825	Arnelle Hughes	Dover	DE	US	32:44
+825	Brian Smyth	Wexford	PA	US	32:44
+828	Bega Baitikova	Redwood City	CA	US	32:45
+828	Emma Innis	Duvall	WA	US	32:45
+828	Kristina Ringland	Seattle	WA	US	32:45
+831	Kathy Lavery	Aurora	IL	US	32:46
+832	Nikolay Muzykin	Bellevue	WA	US	32:50
+833	Srividya Bhagavatheeswaran	Redmond	WA	US	32:50
+834	Jayden Perreault	Charlotte	NC	US	32:52
+835	Eve Machol	North Potomac	MD	US	32:53
+836	Shont Miller	Seattle	WA	US	32:54
+837	James Drage	Redmond	WA	US	32:55
+837	Soraya Drage	Seattle	WA	US	32:55
+839	Peter Johnson	Happy Valley	OR	US	32:56
+840	Dina Ghobashy	bellevue	WA	US	32:59
+840	Lani Lum	Redmond	WA	US	32:59
+842	Deepak Paluru	Mechanicsburg	PA	US	33:00
+843	Emily Gibson	Lynnwood	WA	US	33:00
+843	Mihai Neacsu	Bellevue	WA	US	33:00
+845	Joanne Murphy	Silver Spring	MD	US	33:01
+846	Rachael Bird	Seattle	WA	US	33:04
+847	Drew Pronko	Hoboken	NJ	US	33:08
+848	Kate Canfield	Seattle	WA	US	33:08
+849	Mike Francis	Auburn	WA	US	33:09
+850	Julie Smith	Vienna	VA	US	33:10
+851	Kyle Vikstrom	Seattle	WA	US	33:12
+852	Mike McLaughlin	Sammamish	WA	US	33:14
+853	Matthew Schmidt	Sammamish	WA	US	33:14
+854	Julia Carlson	Seattle	WA	US	33:14
+854	Aria Chitturi	New York	NY	US	33:14
+856	Elizabeth Royalty	Seattle	WA	US	33:15
+857	Richard Dalceno Chaves	Redmond	WA	US	33:15
+858	Christopher Bryan	Chicago	IL	US	33:18
+859	Deepak Singhal	Redmond	WA	US	33:20
+860	Bhaskar Kakaraparthy	Duvall	WA	US	33:21
+861	James Cavanagh	Redmond	WA	US	33:21
+861	Nina Marini	Seattle	WA	US	33:21
+863	Soren Eberhardt	Seattle	WA	US	33:22
+864	Chung-Ching Lin	Briarcliff Manor	NY	US	33:23
+865	Jonathan Havstad	Redmond	WA	US	33:23
+866	Molly Wolpert	Dallas	TX	US	33:24
+867	Olga Svyrydenko	Issaquah	WA	US	33:26
+868	Tim Dean	Sammamish	WA	US	33:26
+869	Vijay Aski	Bellevue	WA	US	33:27
+869	Barbara White	Hugo	MN	US	33:27
+871	Swathi Pai	Kirkland	WA	US	33:28
+872	Vladimir Petrosyan	Seattle	WA	US	33:28
+872	Derek Xu	Mercer Island	WA	US	33:28
+874	Ben Sun	Bellevue	WA	US	33:29
+875	Jennifer Vingerelli	Seattle	WA	US	33:31
+876	Samantha Richard	MIddletown	RI	US	33:31
+877	Ingrid Cai	Alpharetta	GA	US	33:33
+877	Matthew Prall	Snoqualmie	WA	US	33:33
+879	Lydia Carroon	Washington	DC	US	33:35
+880	Derek Mantey	Redmond	WA	US	33:35
+881	Jada Short	Charlotte	NC	US	33:37
+882	Jessica Wilgus	Redmond	WA	US	33:37
+883	Benard VanHeusden	Mt Holly	NC	US	33:38
+884	Sreeraj Perumina Thuvattumeethal	Bothell	WA	US	33:42
+885	Sarah Jin	Los Gatos	CA	US	33:43
+886	Gideon Bibliowicz	Redmond	WA	US	33:44
+887	Sharat Shroff	Mercer Island	WA	US	33:44
+888	Michael Bolden	irving	TX	US	33:44
+889	Srikanth Voruganti	Sammamish	WA	US	33:47
+890	Karla Saur	Seattle	WA	US	33:47
+891	Kimberly Porter	FORT WORTH	TX	US	33:48
+892	Pallavi Deshmukh	Bothell	WA	US	33:49
+892	Marika Montgomery	Port Townsend	WA	US	33:49
+894	Dhanushi Wijeyakulasuriya	Bellevue	WA	US	33:50
+895	Julia Jaynes	Seattle	WA	US	33:51
+896	Gisela Font Sayeras	Redmond	WA	US	33:54
+897	Willie Pfleeger	West Richland	WA	US	33:55
+898	Christian Zuluaga	Bellevue	WA	US	33:56
+899	Gerard Nijhuis	Redmond	WA	US	33:56
+900	Pedro Lucas Franca Albuquerque	Redmond	WA	US	33:56
+901	Barbara Beniulis	lake hopatcong	NJ	US	33:59
+902	Adam Troy	Bothell	WA	US	33:59
+903	Kathryn Heyert	Duvall	WA	US	34:00
+904	Jeremy Los	Bellevue	WA	US	34:00
+904	Dan Parker	Lynnwood	WA	US	34:00
+904	Winnie Poon	Redmond	WA	US	34:00
+904	Chanel Spellman	Washington	DC	US	34:00
+908	Jeni Ortgies	Warrenton	VA	US	34:02
+908	Yongshuang Wang	MOUNTAIN VIEW	CA	US	34:02
+910	Harika Vedati	Seattle	WA	US	34:03
+911	David Schrock	Riverview	FL	US	34:04
+912	Amanda Goncalves Dias	Bellevue	WA	US	34:05
+913	Bryan Schafer	Snoqualmie	WA	US	34:05
+914	Nick Ray	Seattle	WA	US	34:06
+914	Boris Sadykoff	Seattle	WA	US	34:06
+916	Amanda Rivamonte	Commerce Township	MI	US	34:07
+917	Dylan Greene	Redmond	WA	US	34:07
+918	Hammad Rajjoub	Snoqualmie	WA	US	34:08
+919	Eric Blatt	Seattle	WA	US	34:08
+920	Mabel Gonzalez Nunez	Boston	MA	US	34:10
+921	Ketan Palshikar	Mooresville	NC	US	34:10
+921	Thomas Reutter	Redmond	WA	US	34:10
+923	Ryan Riden	Snoqualmie	WA	US	34:12
+924	Sara Mensen	Charlotte	NC	US	34:13
+925	Cooper Erlandson	Bothell	WA	US	34:13
+926	Phani Shekhar Mantripragada	Sunnyvale	CA	US	34:16
+927	Tony Locati	Woodinville	WA	US	34:17
+928	Dustin Conrad	Elizabethtown	PA	US	34:18
+929	Alfred Hellstern	Redmond	WA	US	34:18
+929	Cathy Roiter	Duvall	WA	US	34:18
+931	Tahir Hasandjekic	Kirkland	WA	US	34:19
+932	Michael Blomqvist	Stockholm	Stockholm	SE	34:20
+933	Stephen Schlegel	Fulshear	TX	US	34:21
+934	Jim DeMarco	New Providence	NJ	US	34:23
+935	Theodore Haberman	Seattle	WA	US	34:25
+936	Jennie Locati	Woodinville	WA	US	34:26
+937	Trang Le	Seattle	WA	US	34:26
+938	MIchael Leen	Cape Elizabeth	ME	US	34:26
+939	Daniel Castro	Kirkland	WA	US	34:30
+940	Ron Paulsen	Woodinville	WA	US	34:30
+940	Margarita Ross	Sammamish	WA	US	34:30
+942	Raquel Kemna	Bellevue	WA	US	34:32
+943	Yanlong Li	Bellevue	WA	US	34:33
+944	Sachin Malhotra	Redmond	WA	US	34:36
+945	Denise Gonzalez	DeBary	FL	US	34:37
+946	Michael Hansen	Redmond	WA	US	34:37
+947	Erol Bal	West Orange	NJ	US	34:38
+947	Humberto Makoto Morimoto Burgos	Bellevue	WA	US	34:38
+949	Bob Semsch	Decatur	GA	US	34:40
+950	Barry Lumpkin	Snoqualmie	WA	US	34:40
+951	Jes Schultz	Arvada	CO	US	34:40
+952	Nicole Todd	Bordentown	NJ	US	34:41
+953	Jennifer Major	Newcastle	WA	US	34:42
+954	Bryan Tomlinson	Bellevue	WA	US	34:42
+955	Camaria Bevavy	Kirkland	WA	US	34:42
+956	Hanna Oh Descher	Issaquah	WA	US	34:45
+957	Brijesh Warrier	Bellevue	WA	US	34:46
+958	Ashwin Venkataraman	Bellevue	WA	US	34:49
+959	Astrid Moncaleano Rubio	Kirkland	WA	US	34:50
+960	Keysha Ashour	Sammamish	WA	US	34:50
+961	Valeria Goncharenko	Sammamish	WA	US	34:54
+962	Jennifer Myers	Decatur	GA	US	34:54
+963	Priyanshu Jha	Kirkland	WA	US	34:57
+964	Matthew Koch	Kings County	NY	US	34:59
+965	Tyne Dutzer	Great Falls	MT	US	34:59
+966	Gerard Alfred	Houston	TX	US	35:00
+966	Michelle Chang	Kirkland	WA	US	35:00
+966	Cyrus Chang	Kirkland	WA	US	35:00
+966	Kara Cole	Rye	NH	US	35:00
+966	Sara DeMuzio	Canandaigua	NY	US	35:00
+966	Alick Law	Seattle	WA	US	35:00
+966	Amanda Martinez-Goff	Charlotte	NC	US	35:00
+966	Li Mei	Kirkland	WA	US	35:00
+966	Ana Mejia	HOUSTON	TX	US	35:00
+966	Anna Prince-Palmer	Redmond	WA	US	35:00
+976	Kundan Bharti	Redmond	WA	US	35:01
+977	Marianne Rivera	PHOENIX	AZ	US	35:02
+978	Ellen Hisken	Seattle	WA	US	35:03
+979	Shoshanna Budzianowski	Seattle	WA	US	35:03
+979	Jon Kotker	San Mateo	CA	US	35:03
+981	Carrie Or	Bellevue	WA	US	35:05
+982	Katie Willis	Glen Allen	VA	US	35:07
+983	Michael Manansala	Seattle	WA	US	35:08
+984	Jing Cao	Portland	OR	US	35:11
+985	Vidhyashankar Balasubramaniyan	Redmond	WA	US	35:11
+986	Sanjay Kidambi	Redmond	WA	US	35:11
+986	Adya Kidambi	Sammamish	WA	US	35:11
+988	Kaileigh Pieroth	Seattle	WA	US	35:12
+989	Steve Honn	Maple Valley	WA	US	35:12
+989	Maya Senthil	Kenmore	WA	US	35:12
+991	Sarah Bondoc	Mill Creek	WA	US	35:13
+992	Lisa Cohen	Sammamish	WA	US	35:14
+993	Sara Stark	Bothell	WA	US	35:15
+994	Blene Mekbeb Keshi	Teaneck	NJ	US	35:15
+995	Bob O'Brien	Langley	WA	US	35:15
+996	Beth Pruim	Newberry	FL	US	35:17
+997	Ben Madlena	Seattle	WA	US	35:21
+998	Boris Brkic	ALEXANDRIA	VA	US	35:23
+999	Saurabh Agarwal	Redmond	WA	US	35:25
+1000	Jacob Montgomery	Port Townsend	WA	US	35:26
+1001	Heather Goetz	Snohomish	WA	US	35:28
+1002	Samantha King	Malvern	PA	US	35:29
+1003	Humayun Rashid	Redmond	WA	US	35:29
+1004	Rebecca Halla	Rye	NH	US	35:30
+1004	Samantha Moore	Woodinville	WA	US	35:30
+1006	Dan Jeffre	Clearwater	FL	US	35:35
+1007	Patrick Bondoc	Mill Creek	WA	US	35:37
+1008	Steve Lau	SF	CA	US	35:37
+1009	Bruce Thompson	Mercer Island	WA	US	35:38
+1010	Rafael Romero	Lynnwood	WA	US	35:39
+1011	Gilles Perrenoud	Mercer Island	WA	US	35:40
+1012	Ranjith Katukojwala	Redmond	WA	US	35:41
+1013	Srikar Penumaka	Redmond	WA	US	35:42
+1014	Shanti Kemburu	Sammamish	WA	US	35:42
+1015	Vincent Bellet	KIRKLAND	WA	US	35:42
+1016	Utsav Patel	Kirkland	WA	US	35:43
+1017	Christopher Barker	Redmond	WA	US	35:46
+1018	Angel Correa	BOERNE	TX	US	35:47
+1019	Jason Lin	Woodinville	WA	US	35:47
+1020	Shelly Li	Woodinville	WA	US	35:48
+1021	Jianmin Ma	Redmond	WA	US	35:50
+1022	Ami Bryant	Wildwood	MO	US	35:54
+1023	Katherine Pratt	Seattle	WA	US	35:59
+1024	Bryan Jeffrey	Littleton	MA	US	36:00
+1024	Vijayalakshmi Ramkumar	BELLEVUE	WA	US	36:00
+1026	Risa Davis	Portland	OR	US	36:01
+1027	Amy Shen	Bothell	WA	US	36:04
+1028	Chad Simmons	Carnation	WA	US	36:04
+1029	Sumit Wadhwa	San Diego	CA	US	36:05
+1030	VIkas Bansal	Seattle	WA	US	36:05
+1030	Elena Malova	Redmond	WA	US	36:05
+1032	Britney Whitmire	Holly Springs	NC	US	36:06
+1033	Prashant Gorthi	Redmond	WA	US	36:08
+1034	Dawn Barr	HENDERSONVILLE	NC	US	36:09
+1035	Lori Craw	Bellevue	WA	US	36:10
+1036	Ian Martin	Sammamish	WA	US	36:11
+1037	Rebecca Schofstoll	Seattle	WA	US	36:12
+1037	Kenneth Wong	Redmond	WA	US	36:12
+1039	Tara McWhirter	Sugar Land	TX	US	36:15
+1040	Ruxandra Panainte	Seattle	WA	US	36:15
+1041	Sandeep Prakash	Bellevue	WA	US	36:16
+1042	Aurelia Arnett	Seattle	WA	US	36:16
+1043	Mehak Vij	MONROE TOWNSHIP	NJ	US	36:17
+1044	Jane Bove	Mercer Island	WA	US	36:19
+1045	Jesse Snyder	Kenmore	WA	US	36:23
+1046	Rachel Kaufman-Levine	Seattle	WA	US	36:23
+1047	Arndt Hufenbach	Snohomish	WA	US	36:23
+1047	Leon Iriye	Irvine	CA	US	36:23
+1047	Michael Iriye	Irvine	CA	US	36:23
+1050	Sridhar Poduri	Sammamish	WA	US	36:24
+1051	Wendy Ouyang	Mountain View	CA	US	36:25
+1052	Patrick Derks	Seattle	WA	US	36:26
+1053	Suneet Sasidharan	Seattle	WA	US	36:26
+1054	Miriam Ney	Bellevue	WA	US	36:29
+1055	Samantha Harris	Bothell	WA	US	36:29
+1056	Patricia Feeney	Kirkland	WA	US	36:30
+1056	Daniel Feeney	Kirkland	WA	US	36:30
+1056	Rebecca North	Seattle	WA	US	36:30
+1059	Adrienne Wiley	SEATTLE	WA	US	36:32
+1060	Tania Mueller	Seattle	WA	US	36:37
+1061	Paula Luckenbach	Seattle	WA	US	36:38
+1062	Jenny Yang	Sammamish	WA	US	36:38
+1063	Kaitlin Sechrest	Sammamish	WA	US	36:39
+1064	Serina Shetty	Mercer Island	WA	US	36:40
+1065	Alex Stevens	Auburn	WA	US	36:41
+1066	Bonny Cheung	Bellevue	WA	US	36:43
+1067	Matt Gordon	Woodinville	WA	US	36:47
+1068	Jasmin Rashid	Redmond	WA	US	36:48
+1069	Damaris Toepel	Redmond	WA	US	36:49
+1070	Paloma Lever Guzman	Bellevue	WA	US	36:49
+1071	Paul Edlund	Chicago	IL	US	36:49
+1071	Carolyn Taylor	Reno	NV	US	36:49
+1073	MerryJane Fosdick	Kirkland	WA	US	36:53
+1074	Tahia Emran	Seattle	WA	US	36:55
+1075	Maria Almaguer	Lynnwood	WA	US	36:56
+1076	John Lueders	Seattle	WA	US	36:56
+1076	Javier Novales	Issaquah	WA	US	36:56
+1078	Kate Andrews	Gilbert	AZ	US	37:00
+1078	Lily Arstad	Lynnwood	WA	US	37:00
+1078	Jayati Tehri	Issaquah	WA	US	37:00
+1081	Tanya Mahan	Hanover	MD	US	37:01
+1082	Anthony Leonardo	Boston	MA	US	37:02
+1083	Natasha Halfin	Seattle	WA	US	37:05
+1084	Michelle Lozano	Ellicott City	MD	US	37:07
+1085	Brittany Pavek	Horace	ND	US	37:07
+1086	Laura Caulfield	Woodinville	WA	US	37:10
+1087	Sanjeev Gandhi	IRVING	TX	US	37:10
+1088	Hoda Darwish	San Jose	CA	US	37:11
+1089	Katrina Robinson	Cary	NC	US	37:11
+1090	Mark Mahanes	Dallas	TX	US	37:12
+1091	Keegan Caruso	Mill Creek	WA	US	37:14
+1092	Jay Clem	BELLEVUE	WA	US	37:15
+1093	Teala Coleman	Everett	WA	US	37:15
+1094	Marcio Nobrega	Seattle	WA	US	37:16
+1095	Kirk McNesby	Woodinville	WA	US	37:17
+1096	Martsi Stuart	Kenmore	WA	US	37:18
+1097	Aaron Gutierrez	Northlake	TX	US	37:19
+1098	Jodie LeFever	Battle Creek	MI	US	37:22
+1099	Wayne Xiong	Bellevue	WA	US	37:24
+1100	Kiira Portet	Seattle	WA	US	37:24
+1101	Karen Vezie	Seattle	WA	US	37:27
+1102	Dan Welygan	Bellevue	WA	US	37:27
+1103	Blake Yarbrough	Bremerton	WA	US	37:30
+1104	Ameet Joshi	Redmond	WA	US	37:30
+1105	Pallavi Deshmukh	Bothell	WA	US	37:32
+1106	Christopher St Amand	Woodinville	WA	US	37:32
+1106	Khloe St.Amand	Woodinville	WA	US	37:32
+1106	Logan St.Amand	Woodinville	WA	US	37:32
+1106	Kaitlyn St.Amand	Woodinville	WA	US	37:32
+1110	Aaron Lopez	Darien	IL	US	37:35
+1111	Jebarson Jebamony	Kirkland	WA	US	37:38
+1112	Haronid Moncivais	Woodinville	WA	US	37:38
+1113	Ronil Dhruva	Redmond	WA	US	37:39
+1114	Haitham Shami	Redmond	WA	US	37:41
+1115	Huaming Wang	Clyde Hill	WA	US	37:42
+1116	Katie Liu	seattle	WA	US	37:43
+1117	Barbara Leen	Cape Elizabeth	ME	US	37:43
+1118	Ayman Elkhashab	Seattle	WA	US	37:44
+1119	Jessica Karman	Seattle	WA	US	37:45
+1120	Mengye Guo	Redmond	WA	US	37:47
+1120	Jo Zhou	Bellevue	WA	US	37:47
+1122	Samantha Lankenau	Seattle	WA	US	37:48
+1123	Lisa Miniken	Redmond	WA	US	37:48
+1123	Heather Walicki	Bend	OR	US	37:48
+1125	Mary Bogard	Woodinville	WA	US	37:50
+1126	Kelsey Foote	SCOTTSDALE	AZ	US	37:52
+1127	RamyaKrishna Nalamkulangara	Redmond	WA	US	37:56
+1128	Saad Najmi	Seattle	WA	US	37:59
+1129	Mary McHale	Sammamish	WA	US	38:00
+1129	Prisha Prasad	Bellevue	WA	US	38:00
+1129	Anand Vaidyanathan	Kirkland	WA	US	38:00
+1132	Mukesh Kumar	Bellevue	WA	US	38:01
+1133	Vishal Sharma	Bellevue	WA	US	38:01
+1134	Raj Dhrolia	Redmond	WA	US	38:02
+1135	Sophie Laurent-Hallet	Bellevue	WA	US	38:04
+1136	Bill Avery	Redmond	WA	US	38:05
+1137	John Rex	Bloomfield Hills	MI	US	38:07
+1138	Ramesh Poduri	Sammamish	WA	US	38:11
+1139	Cassidy Rusan	Belleville	IL	US	38:12
+1140	Gayathri Jegan mohan	redmond	WA	US	38:14
+1141	Raul Bandeira	Sammamish	WA	US	38:18
+1141	Thais Bandeira	Sammamish	WA	US	38:18
+1141	Ryan Bereznay	Arnold	MD	US	38:18
+1141	Joyce Lam	Bellevue	WA	US	38:18
+1141	Jan Riedel	Bellevue	WA	US	38:18
+1146	James Cuomo	Palm Harbor	FL	US	38:21
+1147	Cathy Huang	Kirkland	WA	US	38:22
+1148	Brian Mohr	Alexandria	VA	US	38:24
+1149	Jason Poulin	Virginia Beach	VA	US	38:26
+1149	Amanda Poulin	Virginia Beach	VA	US	38:26
+1151	Mathieu Lefebvre	Seattle	WA	US	38:27
+1152	Laura El-Beyrouty	Seattle	WA	US	38:28
+1153	Samantha Go	Seattle	WA	US	38:28
+1154	Khushboo Chandra	Redmond	WA	US	38:30
+1154	Michaela Tsumura	Bellevue	WA	US	38:30
+1154	Landysh Zinnatullina	Redmond	WA	US	38:30
+1157	Heidi Lee	Sammamish	WA	US	38:31
+1158	Kathy Paulsen	Woodinville	WA	US	38:40
+1159	Yaru Lin	Seattle	WA	US	38:41
+1160	Juan Avila	Longmont	CO	US	38:42
+1161	David DeBarr	Lynnwood	WA	US	38:47
+1162	Li Miao	Sunnyvale	CA	US	38:50
+1163	Megan Trabun	Lynnwood	WA	US	38:52
+1164	Aarthi Kumar	San Jose	CA	US	38:53
+1165	David Majchrowicz	Bellevue	WA	US	38:53
+1166	Christos Teriakidis	Sammamish	WA	US	38:55
+1167	Julian Sandu	Seattle	WA	US	38:56
+1168	Klijne Gainza	Sammamish	WA	US	38:58
+1169	Sebastian Messner de Latour	Alexandria	VA	US	38:59
+1169	J.J. Messner de Latour	Alexandria	VA	US	38:59
+1171	Sid Mathur	Sammamish	WA	US	39:00
+1172	Chirag Kamat	Seattle	WA	US	39:02
+1173	Kabir Jain	Redmond	WA	US	39:02
+1174	Devrim Iyigun	Kirkland	WA	US	39:05
+1175	James Lin	ISSAQUAH	WA	US	39:11
+1176	Kris Langohr	Snohomish	WA	US	39:12
+1177	Denise Arellano	Riverview	FL	US	39:14
+1178	Archie Iskaq	Irvine	CA	US	39:14
+1179	Brandon Banning	Redmond	WA	US	39:15
+1179	Lani Banning	Redmond	WA	US	39:15
+1179	Chuluunsuren Damdinsuren	Redmond	WA	US	39:15
+1182	Nick Gedge	Redmond	WA	US	39:17
+1183	Ellen Bryce	Snoqualmie	WA	US	39:18
+1184	Prakash Annadurai	Bellevue	WA	US	39:19
+1185	Jonathan Castillo	Ewa Beach	HI	US	39:19
+1186	Irfan Sheikh	Redmond	WA	US	39:20
+1187	Sara Cummings	Seattle	WA	US	39:20
+1188	Caytie Turin	Happy Valley	OR		39:23
+1189	Keqin Zhou	Bellevue	WA	US	39:25
+1190	Richard Stephenson	Newport News	VA	US	39:27
+1191	Shalaka Naidu	Seattle	WA	US	39:28
+1192	Giada Holden	KING OF PRUSSIA	PA	US	39:28
+1193	Thomas Rowley	University Place	WA	US	39:29
+1194	Andrea Tirpak	WINTER SPRINGS	FL	US	39:32
+1195	Erik A Pulkka	Woodinville	WA	US	39:32
+1196	Gregory Schunemann	South Hamilton	MA	US	39:34
+1197	Allen Ballway	Seattle	WA	US	39:35
+1198	Kevin Buttrey	Acworth	GA	US	39:35
+1199	Ami Sanghavi	Seattle	WA	US	39:36
+1200	David Olivares	Miami Beach	FL	US	39:36
+1201	Soon Oh	Kenmore	WA	US	39:37
+1202	Benoit Fouillet	Bellevue	WA	US	39:38
+1203	Justin Nordin	Redmond	WA	US	39:39
+1204	Betsy Romero	Aventura	FL	US	39:41
+1205	Hedy Chan	Seattle	WA	US	39:43
+1206	Luke Schwartzel	Bothell	WA	US	39:46
+1207	Anandaraj Gopal	BOTHELL	WA	US	39:48
+1208	Serenity Dillaway	Kenmore	WA	US	39:51
+1209	Gayathri Ramadoss	Redmond	WA	US	39:51
+1210	Guilherme Pita	Jersey City	NJ	US	39:55
+1211	Steven Karrmann	Bellevue	WA	US	39:56
+1212	David Davidson	Hereford	AZ	US	39:58
+1213	Chong Ding	cary	NC	US	40:00
+1213	Marcus Koodie	Snohomish	WA	US	40:00
+1213	Matthew Liu	Kirkland	WA	US	40:00
+1213	Jude Srikanthan	Bothell	WA	US	40:00
+1217	Billy Wellen	Carnation	WA	US	40:02
+1218	Yupeng Lu	Bothell	WA	US	40:09
+1219	Joseph Paranteau	Allen	TX	US	40:09
+1220	Samer Karim	Redmond	WA	US	40:10
+1221	Guido Bigontina	Redmond	WA	US	40:15
+1222	Jenny Weigel	Seattle	WA	US	40:16
+1223	Humair Mandavia	Issaquah	WA	US	40:19
+1224	Olivier Matrat	Redmond	WA	US	40:19
+1225	Erika Berndt	Issaquah	WA	US	40:23
+1226	Anne Palmer	Woodinville	WA	US	40:24
+1227	Karen Gallo	Seattle	WA	US	40:27
+1228	Sharath Cirupati	Sunnyvale	CA	US	40:27
+1229	Patti Chrzan	Seattle	WA	US	40:27
+1230	Harsh Upadhyay	Bellevue	WA	US	40:30
+1231	Minakshi Jain	Bothell	WA	US	40:33
+1232	Nilakshi Das	San Jose	CA	US	40:33
+1232	Deanna Tran	Seattle	WA	US	40:33
+1234	Matthew Bando	Lanham	MD	US	40:34
+1235	Swati Gharse	Palo Alto	CA	US	40:36
+1236	Scott Finholm	Bellevue	WA	US	40:47
+1237	Ankit Shah	Bellevue	WA	US	40:48
+1238	Rose Nyameke	Bellevue	WA	US	40:49
+1239	Rafi Weltmann	Davie	FL	US	40:50
+1240	Paul Kimbel	Flower Mound	TX	US	40:50
+1241	Luia Pulkka	Woodinville	WA	US	40:51
+1242	Chao Li	Redmond	WA	US	40:58
+1243	Menglan Ji	Bellevue	WA	US	41:02
+1243	Lucile Matrat	Redmond	WA	US	41:02
+1245	Jayashri Deshpande	Redmond	WA	US	41:03
+1246	Lycus Woo	Bellevue	WA	US	41:04
+1247	Trent Myers	Woodinville	WA	US	41:06
+1248	Shiho Mancuso	Puyallup	WA	US	41:08
+1249	Savita Mittal	Redmond	WA	US	41:10
+1250	Cynthia Perreira	Seattle	WA	US	41:16
+1251	Luis Murano	Redmond	WA	US	41:18
+1252	Jennifer Jinhong	Bellevue	WA	US	41:19
+1253	Missy Roling	Little Rock	AR	US	41:20
+1254	John Hudson	Mill Valley	CA	US	41:21
+1255	Meg White	Kirkland	WA	US	41:23
+1256	Sheila Esmeralda	Woodinville	WA	US	41:24
+1257	Carlos Jenkins	Clover	SC	US	41:26
+1258	Diana Sullivan	Seattle	WA	US	41:27
+1259	Derek Tong	Hong Kong	Hong Kong	HK	41:28
+1260	Connor Sullivan	Seattle	WA	US	41:31
+1261	Carla Silvani	Humble	TX	US	41:31
+1262	Pat Wills	HONOLULU	HI	US	41:37
+1263	Jignesh Rawal	Redmond	WA	US	41:38
+1264	Juliana Tioanda	Bellevue	WA	US	41:40
+1265	Wei Wang	Issaquah	WA	US	41:42
+1266	Dave Flynn	Sammamish	WA	US	41:44
+1267	Eric Woodruff	Schenectady	NY	US	41:45
+1268	Olivia Guzzardo	Charleston	SC	US	41:45
+1269	Punam Mahato	Redmond	WA	US	41:45
+1270	Jose DelaCruz	Gaithersburg	MD	US	41:46
+1271	Natalina Dziubek	Amherst	OH	US	41:47
+1272	Katrina Vergara	Seattle	WA	US	41:47
+1273	Karina Leguay	Seattle	WA	US	41:47
+1274	Rakshanda Agarwal	bellevue	WA	US	41:49
+1275	Lorena Huang Liu	Seattle	WA	US	41:50
+1276	Robert Mathis	Spring Hill	TN	US	42:00
+1276	Chiyuki Mathis	Spring Hill	TN	US	42:00
+1278	Heather Ehlenbach	Kennesaw	GA	US	42:02
+1279	Matthew Humphrey	Issaquah	WA	US	42:08
+1280	Linda Diefendorf	Bothell	WA	US	42:09
+1281	Kelvin Barnes	accokeek	MD	US	42:10
+1282	Shilpa Devela	Woodinville	WA	US	42:13
+1282	Leela Devela	Woodinville	WA	US	42:13
+1284	Marco Peyrot Carrion	KIRKLAND	WA	US	42:14
+1285	Sherlan Abesamis	Sunnyvale	CA	US	42:15
+1286	Korey Finnes	Stillwater	MN	US	42:15
+1287	Rashmi Netto	Redmond	WA	US	42:18
+1288	Dennis Guzy	Harrisburg	PA	US	42:21
+1288	JeeWoong Lee	Vernon Hills	IL	US	42:21
+1290	Sangeetha Suryanarayanan	BELLEVUE	WA	US	42:23
+1291	Francisco Rivera Reyes	Seattle	WA	US	42:27
+1292	Omkar Taware	Collierville	TN	US	42:30
+1293	Abhinav Agshikar	Seattle	WA	US	42:37
+1294	Mike Kusman	Townsend	DE	US	42:37
+1295	Tiffany McKimmy	Reno	NV	US	42:40
+1296	Michelle Garber	GLEN ELLYN	IL	US	42:43
+1297	Joel Sherman	hopkinton	NH	US	42:47
+1298	Russell Waterson	North Bend	WA	US	42:48
+1299	Melanie Wood	North Bend	WA	US	42:49
+1300	Luis Escobar Reyes	Seattle	WA	US	42:49
+1301	Arlene Lanz	Kirkland	WA	US	42:51
+1302	Kevin Jaturapatporn	BELLEVUE	WA	US	42:54
+1303	Xiao Tu	Medina	WA	US	42:58
+1304	Jamey Johnson	West Fargo	ND	US	43:00
+1305	Adam Hecktman	Chicago	IL	US	43:00
+1305	Shunya Kodaira	Issaquah	WA	US	43:00
+1305	Navaneethkrishnan Senthil Kumar	BOTHELL	WA	US	43:00
+1308	Roxana Teodorescu	Redmond	WA	US	43:01
+1309	Disha Manikandan	Redmond	WA	US	43:08
+1310	Elijah Blackwood	Renton	WA	US	43:10
+1310	Theresa May	Renton	WA	US	43:10
+1312	Namita Prakash	Irvine	CA	US	43:13
+1313	Kamika Dillard	Bellevue	WA	US	43:15
+1314	Michael Vrabel	Littleton	CO	US	43:20
+1315	Sarah Turk	Chester County	PA	US	43:22
+1316	Alvera Mandavia	Issaquah	WA	US	43:28
+1317	Sue Ventura	Seattle	WA	US	43:29
+1318	Danny Askew	Seattle	WA	US	43:30
+1319	Sherry Yang	Seattle	WA	US	43:33
+1320	Seema Guggari	SANTA CLARA	CA	US	43:35
+1321	Joe Zavaglia	Snohomish	WA	US	43:35
+1322	Nandita Kamani	Redmond	WA	US	43:36
+1323	Tia Dalupan-Wong	Redmond	WA	US	43:38
+1324	Pooja Patel	Redmond	WA	US	43:39
+1325	Sierra Jacob	Austin	TX	US	43:39
+1326	Raj Patel	Redmond	WA	US	43:46
+1327	Gerardo Barraza	Redmond	WA	US	43:48
+1328	Pam McCratic	Norristown	PA	US	43:50
+1329	Manoj Kumar	Bellevue	WA	US	43:53
+1330	Lou Prete	Lancaster	SC	US	43:56
+1331	Andrea Schneider	Seattle	WA	US	43:57
+1332	Kelley Rex	Bloomfield Hills	MI	US	43:57
+1333	Lauren Sless	Jersey City	NJ	US	43:59
+1334	Rodney Reagor	Bellevue	WA	US	44:00
+1335	Guillermo Guzman-Barron	Sammamish	WA	US	44:00
+1336	Huy Lam	Austin	TX	US	44:01
+1337	Leslie Chase	Seattle	WA	US	44:01
+1338	Paola Jimenez	SAMMAMISH	WA	US	44:02
+1338	Colin Moll	Bothell	WA	US	44:02
+1340	George Scott Morrison	Tucson	AZ	US	44:06
+1340	Megumi Taylor	Mill Creek	WA	US	44:06
+1342	Shawn Cannon	Seattle	WA	US	44:10
+1343	James Lewis	Hendersonville	NC	US	44:10
+1344	Ikya Jupudy	SEATTLE	WA	US	44:12
+1345	Kristeen Kohrs	Neshanic Station	NJ	US	44:12
+1346	Alberto Barreda	Bellevue	WA	US	44:21
+1347	Sapna Gupta	Hillsboro	OR	US	44:24
+1348	Jenn McCoy	Redmond	WA	US	44:27
+1349	Mauricio Herrera Rodriguez	Bellevue	WA	US	44:28
+1350	Michelle Lingg	Issaquah	WA	US	44:31
+1351	Vidhu Janardhanan	Maple Valley	WA	US	44:33
+1352	Nichelle Alford	West Sacramento	CA	US	44:33
+1353	Kelly Thomas	Lakewood	CO	US	44:34
+1354	Amit Takkar	Blacksburg	VA	US	44:34
+1355	Susan Shore	Redmond	WA	US	44:36
+1356	Nancy Donnelly	WEAVERVILLE	NC	US	44:46
+1357	Juan Alicea	Clermont	FL	US	44:51
+1358	Dong Yuan	Bellevue	WA	US	44:54
+1359	Kirill Skobkarev	Redmond	WA	US	44:57
+1360	Julia Negrete	Bellevue	WA	US	44:59
+1360	Nadia Tinoco	Bellevue	WA	US	44:59
+1362	Ankita Bendre	Edison	NJ	US	45:00
+1362	Tara Cristobal-Rivera	Black Diamond	WA	US	45:00
+1362	Anushka Pakhare	Redmond	WA	US	45:00
+1362	Susan Samstag	Arlington	TX	US	45:00
+1366	Javier Hernandez	Dallas	TX	US	45:01
+1367	Neha Keshari	Bothell	WA	US	45:03
+1368	James Fox	Bellevue	WA	US	45:03
+1369	Angie Walker	Vienna	VA	US	45:03
+1370	David Chalissery	Issaquah	WA	US	45:04
+1371	Anuja Joshi	Pleasanton	CA	US	45:08
+1372	Seema Kathuria	Fremont	CA	US	45:10
+1373	Amanda Pokrzywa	Cary	NC	US	45:12
+1374	Alfred Lu	Redmond	WA	US	45:13
+1375	Elvira Macedo Garzón	Mexico City	Distrito Federal	MX	45:22
+1376	Ryan Johnson	Everett	WA	US	45:25
+1377	Lucio Tiberi	Redmond	WA	US	45:27
+1378	Cathy Lee	Sammamish	WA	US	45:30
+1379	Nicholas Wells	Jersey City	NJ	US	45:31
+1380	Ramana Sridhar	Bellevue	WA	US	45:32
+1381	Jimmy Kan	Sammamish	WA	US	45:33
+1382	Yong Zhao	Bellevue	WA	US	45:33
+1383	Aditi Singh	Kirkland	WA	US	45:33
+1384	Gabriel Moreno	Little Elm	TX	US	45:37
+1385	Sergio Juarez Miramontes	Seattle	WA	US	45:38
+1386	Samantha Malaviarachchi	Bellevue	WA	US	45:40
+1387	Matt Gall	Zionsville	IN	US	45:42
+1388	Stephen Picciano	Holbrook	NY	US	45:46
+1389	Jeff Cable	Gastonia	NC	US	45:49
+1390	Arleen Abarquez	Alamo	CA	US	45:52
+1390	Emily Anderson	Dupont	WA	US	45:52
+1392	Denise Clarke	Sammamish	WA	US	45:59
+1393	Robert Smithhart	Maple Valley	WA	US	46:00
+1393	Evelyn Yagusesky	Snoqualmie	WA	US	46:00
+1395	Joanne Gates	Redmond	WA	US	46:01
+1396	Aliesha Pulliam	Redmond	WA	US	46:02
+1397	Abril Marina Gonzalez Ramirez	Redmond	WA	US	46:08
+1398	Arberesha Pingrey	Bothell	WA	US	46:17
+1399	Shaila Patel	Brandon	FL	US	46:20
+1400	Colin Doherty	Carrollton	TX	US	46:21
+1400	Maggy Doherty	Carrollton	TX	US	46:21
+1400	Doug Kline	Irving	TX	US	46:21
+1403	Serena Hillman	Edmonds	WA	US	46:30
+1404	Roopa Pundaleeka	Sammamish	WA	US	46:37
+1405	Chad Kearsley	Chapel Hill	NC	US	46:41
+1406	Joel Gillespie	Woodinville	WA	US	46:44
+1407	Meghan Bergeron	Kenner	LA	US	46:48
+1408	Siew Hoon Goh	Bellevue	WA	US	46:54
+1409	Wendy Delmolino	Vienna	VA	US	46:57
+1410	Karen Dixon	Seattle	WA	US	46:57
+1411	Martin Pichardo	Aventura	FL	US	47:00
+1412	Ram Janam Singh	Redmond	WA	US	47:03
+1413	Indira Smith	Laguna Hills	CA	US	47:08
+1414	Nicole Hill	Seattle	WA	US	47:13
+1415	Qizhi Xu	Plainsboro Center	NJ	US	47:20
+1416	Robert Vincent	Kenmore	WA	US	47:32
+1417	Patrick Thrasher	Denver	CO	US	47:34
+1418	Ronmia Bess	Charlotte	NC	US	47:36
+1419	Shawn Stewart	SEATTLE	WA	US	47:41
+1420	Jesse Smith	McMinnville	OR	US	47:42
+1421	Nandie Oosthuizen	Lynnwood	WA	US	47:43
+1422	Raselas Berhe	San Francisco	CA	US	47:46
+1423	Robert Phillips	Rock Hill	SC	US	47:52
+1424	Laura Iacopetti	Chino Hills	CA	US	47:56
+1424	Anita Newman	Chino Hills	CA	US	47:56
+1426	Nicholas Campbell	Tewksbury	MA	US	47:58
+1427	Beth Teigue	Annandale	VA	US	47:58
+1428	Natalie Singh	Bethesda	MD	US	48:00
+1429	Szilvia Szilagyi	Redmond	WA	US	48:03
+1430	Laura Mcgoogan	Cary	NC	US	48:04
+1431	Siddhesh Kulkarni	Seattle	WA	US	48:06
+1432	Iskender Agi	Redwood City	CA	US	48:07
+1433	Vijay Mutalik Desai	Redmond	WA	US	48:10
+1434	Shruti Sapre	Seattle	WA	US	48:11
+1435	Gabe Volker	Shenandoah Junction	WV	US	48:11
+1436	Breanna Ivens	Reno	NV	US	48:16
+1437	Jeff Amundsen	Bellevue	WA	US	48:17
+1438	Stephen Barnes	Oak Ridge	TN	US	48:17
+1439	Den Raskovalov	Issaquah	WA	US	48:17
+1440	Erin Jefferson	SEATTLE	WA	US	48:19
+1441	Cory Williams	Rock Hill	SC	US	48:31
+1442	Lisa Kelly	Gurnee	IL	US	48:31
+1443	Archana Das	Redmond	WA	US	48:37
+1444	Gunter Schneider	Bellevue	WA	US	48:46
+1445	Shaoling Chen	Cupertino	CA	US	48:47
+1446	Jenn Jungk	Redmond	WA	US	48:53
+1446	Kyle Jungk	Redmond	WA	US	48:53
+1448	John Chung	Redmond	WA	US	49:00
+1448	Rosa Kim	Bellevue	WA	US	49:00
+1450	Jeanie Shifflett	weyers cave	VA	US	49:08
+1451	Dan Stockwell	Redmond	WA	US	49:09
+1452	Elizabeth Mitchell	Seattle	WA	US	49:09
+1453	Palash Agrawal	Bothell	WA	US	49:16
+1454	Shaun Dodge	Denton	TX	US	49:17
+1455	Luning Wang	Bellevue	WA	US	49:18
+1456	Ravikiran Tangirala	Bellevue	WA	US	49:20
+1457	Xiaoyue Xie	Seattle	WA	US	49:20
+1458	Corinne Dubedat	Kirkland	WA	US	49:32
+1459	Kareem Fazal	Austin	TX	US	49:39
+1460	Melissa Kroskie	Newcastle	WA	US	49:42
+1461	Tade Idris	Springfield	IL	US	49:45
+1462	Ashleigh Cares	West Hollywood	CA	US	49:58
+1463	Kevin Tuazon	Elgin	IL	US	50:00
+1464	Tehmina Ali	Redmond	WA	US	50:00
+1464	Surbhi Inani	Redmond	WA	US	50:00
+1464	Kris Perry	Spokane	WA	US	50:00
+1467	Mario Vargas	aventura	FL	US	50:02
+1468	Amy Blas	Vienna	VA	US	50:03
+1469	Ali Wheat	Snoqualmie	WA	US	50:06
+1470	Cesia Bulnes	bellevue	WA	US	50:09
+1471	Vedant Kamani	Redmond	WA	US	50:17
+1472	Jessica Nangalia	Issaquah	WA	US	50:18
+1472	Amit Nangalia	Issaquah	WA	US	50:18
+1474	Tom Kent-Dobias	Sammamish	WA	US	50:21
+1475	Anitha Adusumilli	Sammamish	WA	US	50:34
+1476	Dhawal Parkar	Bellevue	WA	US	50:37
+1477	Kris Jolma	Winlock	WA	US	50:42
+1478	Samantha Robertson	Redmond	WA	US	50:42
+1479	Diana Wang	Duluth	GA	US	50:43
+1480	Loreen La Penna	Sammamish	WA	US	50:44
+1481	Smita Mutalik Desai	Redmond	WA	US	50:48
+1482	Elisabeth Von Spakovsky	Seattle	WA	US	50:56
+1483	Muthukrishnan Chamakkad N	Suwanee	GA	US	50:58
+1483	Steve Duncan	Puyallup	WA	US	50:58
+1485	Puja Gupta	Redmond	WA	US	51:03
+1486	Marissa Berry	Duvall	WA	US	51:04
+1487	Christopher Palazzolo	NAPA	CA	US	51:06
+1488	Dave O'Brien	Mountlake Terrace	WA	US	51:06
+1489	Princey Chowdhury	Los Altos	CA	US	51:08
+1490	Tiara Hilliard	Dumfries	VA	US	51:09
+1491	Ashley Monsey	RENO	NV	US	51:10
+1492	Christopher Hatch	Bradenton	FL	US	51:17
+1493	Tara Kobelski	La Mirada	CA	US	51:24
+1494	Trish Betts	Dallas	TX	US	51:25
+1494	Scott Forsyth	"MILPITAS, CA"	CA	US	51:25
+1496	Sarah Karlek	Renton	WA	US	51:30
+1496	Beyza Karlek	Renton	WA	US	51:30
+1496	Amanda Nugent	Renton	WA	US	51:30
+1499	Carolyn Lesser	Redmond	WA	US	51:36
+1500	Pallavi Damera	Redmond	WA	US	51:40
+1501	Jaynie Shorb	Quincy	WA	US	51:41
+1502	Che Martinez	Seattle	WA	US	51:41
+1503	Jenn Cockrell	Everett	WA	US	51:43
+1504	Afua Aidoo	Ann Arbor	MI	US	51:58
+1505	Kira Malova	Redmond	WA	US	52:00
+1506	Nikita Sandhu	Bothell	WA	US	52:05
+1507	Samuel Lee	Bellevue	WA	US	52:07
+1508	Rachel Brownell	Lexington	MA	US	52:19
+1509	Mirian Jenkins	Clover	SC	US	52:23
+1510	Salil Das	Seattle	WA	US	52:23
+1511	Melinda Pallemaerts	Kirkland	WA	US	52:28
+1512	Ali Saab	West Bloomfield Township	MI	US	52:29
+1513	RaShaan Owens	Desoto	TX	US	52:31
+1514	Kim Sarao	Sparks	NV	US	52:33
+1514	Keith Sarao	Sparks	NV	US	52:33
+1516	Manny Lata	Mountlake Terrace	WA	US	52:34
+1516	Stacy Lata	Mountlake Terrace	WA	US	52:34
+1518	Erika Whinihan	Seattle	WA	US	52:42
+1519	Bridget Persick	SLIDELL	LA	US	52:52
+1520	Mayur Masrani	Bothell	WA	US	52:53
+1521	Adam Przybilla	Raleigh	NC	US	52:53
+1522	Anastasia Humphers-Ginther	Fargo	ND	US	53:01
+1523	Dawn Klinghoffer	Seattle	WA	US	53:02
+1524	Dena Quinn	Southport	NC	US	53:05
+1525	Heather Murchison	Seattle	WA	US	53:08
+1526	Yuriy Firmanchuk	Hinckley	OH	US	53:14
+1527	Selena Harrington	Bellevue	WA	US	53:20
+1528	Sunil Rai	Redmond	WA	US	53:25
+1529	Matt Billings	Woodinville	WA	US	53:32
+1530	Heather Gatewood	Vienna	VA	US	53:33
+1531	Theodore Yura	Spring Lake	MI	US	53:34
+1532	Aneta Berge	Reno	NV	US	53:35
+1533	Mark Henrikson	Bellevue	WA	US	53:37
+1534	Lora Heiny	Seattle	WA	US	53:40
+1535	Jinoos Safavian	Bothell	WA	US	53:40
+1536	Casey Kossuth	Marietta	GA	US	53:41
+1537	Pankesh Jhaveri	Kirkland	WA	US	53:43
+1538	Katy Tu	Bedminster	NJ	US	53:47
+1539	Tianlei Xu	Bellevue	WA	US	53:48
+1540	Roberto Assis Machado	Seattle	WA	US	53:49
+1541	Jolly Kaur	Bellevue	WA	US	53:52
+1542	Eliot Graff	Seattle	WA	US	53:53
+1543	Shannon Smith	Phoenix	AZ	US	53:53
+1544	Shin Kodaira	Issaquah	WA	US	53:56
+1545	Selina Winter	Alpharetta	GA	US	53:57
+1546	Brittney Sibley	Reno	NV	US	54:02
+1547	Amy Arnold	Tampa	FL	US	54:07
+1548	Jeff Scholes	Little Elm	TX	US	54:08
+1549	Wei Tung	Redmond	WA	US	54:09
+1550	Rick Vingerelli	Redmond	WA	US	54:09
+1551	Tammy Cho	Seattle	WA	US	54:13
+1552	Joan Barrow	Great Falls	VA	US	54:16
+1553	Brittany Wong	Bellevue	WA	US	54:24
+1554	Diane Boettcher	Owings Mills	MD	US	54:26
+1555	Sonja Delafosse	Everett	WA	US	54:29
+1556	Janice Sowa	maple valley	WA	US	54:31
+1557	Kellie Webber	Coppell	TX	US	54:33
+1558	Niel Sutton	Matthews	NC	US	54:37
+1559	Johanan Perez	Middletown	NY	US	54:39
+1560	Scott Chencinski	Peoria	AZ	US	54:40
+1561	Susheel Varma	Bellevue	WA	US	54:44
+1562	April Travis	Coppell	TX	US	54:51
+1563	Al Chappell	Kent	WA	US	54:53
+1563	Akela Chappell	Kent	WA	US	54:53
+1563	Carrie Clewis	Kent	WA	US	54:53
+1563	LaDrea Ford	Kent	WA	US	54:53
+1563	Tomara Lucrisia	Kent	WA	US	54:53
+1563	Delena Mitchell	Kent	WA	US	54:53
+1563	Toni Thomas	Kent	WA	US	54:53
+1570	Vickey Shirley	Redmond	WA	US	54:58
+1571	Michelle Abrahams	Bellevue	WA	US	55:00
+1571	Annie Chowdhry	Redmond	WA	US	55:00
+1571	Indira Hayams	Fort Lauderdale	FL	US	55:00
+1571	Erin Momany	Clyde Hill	WA	US	55:00
+1571	Lindsy Russell	Seattle	WA	US	55:00
+1571	Anna Waismeyer	Woodinville	WA	US	55:00
+1577	Stephanie Doakes-Jazzy	Cedar Hill	TX	US	55:05
+1578	Tiffany Sanders	Woodinville	WA	US	55:09
+1579	Siju Gurung	Morrisville	NC	US	55:10
+1579	Lillian Kim	Mill Creek	WA	US	55:10
+1581	Carl Smith	Auburn	WA	US	55:15
+1582	Juan Manuel Martinez Garcia	San Francisco	CA	US	55:24
+1583	Amit Tiwari	Issaquah	WA	US	55:32
+1584	Diana Forsyth	"MILPITAS, CA"	CA	US	55:32
+1585	Vigil Gontinas	Woodinville	WA	US	55:39
+1586	Keith Rome	Odessa	TX	US	55:41
+1587	Quinn Bartlett	Issaquah	WA	US	55:44
+1588	Eric Weston	Fredericksburg	VA	US	55:45
+1589	Raman Kalyan	Redmond	WA	US	55:48
+1590	Jayanthi Vijeyanandh	Redmond	WA	US	55:53
+1591	Christopher Hogerty	Babylon	NY	US	55:57
+1592	Juliana Pinheiro Maia	Seattle	WA	US	55:58
+1593	Anoushka Saxena	Seattle	WA	US	55:59
+1594	Senthil Kumar Muniyandi	BOTHELL	WA	US	56:00
+1594	Rajani Nair	Greenwood Village	CO	US	56:00
+1596	Thomas Osborn	Hanover	MD	US	56:04
+1597	Patricia Horton	Coppell	TX	US	56:08
+1598	Kendall Costello	Southlake	TX	US	56:08
+1599	Victoria Lanz	Kingsport	TN	US	56:08
+1600	Bob Conger	Mukilteo	WA	US	56:12
+1600	Marianne Conger	Mukilteo	WA	US	56:12
+1602	Kim Keeton	Redmond	WA	US	56:13
+1603	Arleen Ola	Odessa	TX	US	56:14
+1604	Jessica Harrison	Newmarket	NH	US	56:16
+1605	Cesarina Saldana	Charlotte	NC	US	56:33
+1606	Mary Ellen Sinclair	Columbus	OH	US	56:36
+1607	Andrea Katsivelis	Margate	FL	US	56:37
+1608	Eileen Pietrone	Duvall	WA	US	56:42
+1609	Sharif Razzaque	Seattle	WA	US	56:46
+1610	Heidi Kaufman	Frisco	TX	US	56:49
+1611	Ryan Conley	Kingsport	TN	US	56:53
+1612	Lisa Dembo	Bellevue	WA	US	56:53
+1613	Paige Burkeholder	Denver	CO	US	56:55
+1613	Jim Burkeholder	Denver	CO	US	56:55
+1615	GP Akala	Bellevue	WA	US	56:57
+1616	Ravikumar Mallela	Redmond	WA	US	57:08
+1617	Adam McCullough	Kissimmee	FL	US	57:10
+1617	Khemara McCullough	Kissimmee	FL	US	57:10
+1619	Jason Giordano	Waxhaw	NC	US	57:14
+1620	Chris Drews	Woodinville	WA	US	57:15
+1621	Mary Drews	Woodinville	WA	US	57:15
+1621	Julie Lowe	Seattle	WA	US	57:15
+1623	Christopher Santiago	Bellevue	WA	US	57:20
+1624	Lucia Evans	Sammamish	WA	US	57:22
+1624	Matt Evans	Sammamish	WA	US	57:22
+1626	Brigitte Bridges	Cornelius	NC	US	57:28
+1627	Angela Savarese	Kirkland	WA	US	57:31
+1628	Mi Sun Park	SAN JOSE	CA	US	57:35
+1629	Kailun Qian	Bellevue	WA	US	57:37
+1630	Osarumwense Omorogbe	SEATTLE	WA	US	57:42
+1631	Dovila Lekaviciute	Sparks	NV	US	57:46
+1632	Lisa Weber	Laurel	MD	US	57:47
+1633	Katerina Athanasiou	Pine Brook	NJ	US	57:52
+1633	Corinne Kuchling	Seattle	WA	US	57:52
+1635	Serik Smagulov	Seattle	WA	US	58:00
+1636	Steve Arnold	Woodinville	WA	US	58:00
+1636	Mary-Pat Beattie	Sammamish	WA	US	58:00
+1636	Dina Lander	Bellevue	WA	US	58:00
+1636	Megan Melloy	Bothell	WA	US	58:00
+1640	Yvette White	Sammamish	WA	US	58:03
+1641	Tamara McBride	Woodinville	WA	US	58:07
+1642	Robert Pietrone	Duvall	WA	US	58:08
+1643	Shanna Butler	Dallas	TX	US	58:13
+1644	Brett Chase	Lake Forest Park	WA	US	58:14
+1645	Sukhdev Singh	SAMMAMISH	WA	US	58:15
+1646	Vidya Holsambre	Johns Creek	GA	US	58:19
+1647	Ruyu Guan	Issaquah	WA	US	58:19
+1648	Adrian Barragan	Seattle	WA	US	58:20
+1649	Emma Clark	Woodinville	WA	US	58:27
+1650	Marcela Clark	Woodinville	WA	US	58:28
+1651	Johnson Goveas	Bellevue	WA	US	58:29
+1652	Cathy Langohr	Snohomish	WA	US	58:30
+1653	Wade Monsebroten	West Fargo	ND	US	58:32
+1654	Nancy Muth Giddens	COLORADO SPGS	CO	US	58:34
+1655	Calais-Norman Wade	GLENN DALE	MD	US	58:34
+1656	Dianna Madison	Kent	WA	US	58:39
+1657	Rich Black	Rancho Palos Verdes	CA	US	58:40
+1657	Calen Black	Rancho Palos Verdes	CA	US	58:40
+1657	Marielle Madison	Kent	WA	US	58:40
+1660	Missy Mazur	Spring Grove	IL	US	58:47
+1661	Donna Ritchie	Trophy Club	TX	US	58:48
+1662	Venkat Satya Murali Subramanyam Konathala	Bellevue	WA	US	58:50
+1663	Sarah Sinclair	Seattle	WA	US	58:57
+1664	Tyler Moeller	Seattle	WA	US	58:58
+1665	Andrew Weldon	Farmers Branch	TX	US	58:59
+1666	Jim Edelblute	Bothell	WA	US	59:00
+1666	Reagan Edelblute	Bothell	WA	US	59:00
+1666	Lauren Edelblute	Bothell	WA	US	59:00
+1666	Ciara Owen	Cle Elum	WA	US	59:00
+1670	Jason Ward	Duvall	WA	US	59:01
+1671	Donna Eng	Kirkland	WA	US	59:02
+1672	Mark Hasenjager	Omaha	NE	US	59:04
+1673	Mary Bradley	Naperville	IL	US	59:08
+1674	Declan O'Neill	Seattle	WA	US	59:10
+1674	Tricia Pearson	SEATTLE	WA	US	59:10
+1676	Nourisha Wells	Seattle	WA	US	59:14
+1677	Eric Olson	Seattle	WA	US	59:15
+1678	Ella Golden	Seattle	WA	US	59:18
+1679	Leanora Perillo	Seattle	WA	US	59:21
+1680	Vera Ward	Duvall	WA	US	59:22
+1681	Alvira Jain	Redmond	WA	US	59:28
+1682	Mayunk Jain	Redmond	WA	US	59:29
+1683	William Woodland	WOODINVILLE	WA	US	59:33
+1684	Jordan Bell	Atlanta	GA	US	59:37
+1685	Megha Goyal	Bellevue	WA	US	59:43
+1686	Annele Richards	Beverly Hills	MI	US	59:44
+1687	Kim Cowan	Bella Vista	AR	US	59:45
+1688	Lisa McNamara	Highlands	NJ	US	59:48
+1689	Astrid Uka	Kirkland	WA	US	59:50
+1689	Bjoern Wissling	Kirkland	WA	US	59:50
+1691	Andy Bergen	Sammamish	WA	US	59:58
+1692	Prasad Panuganti	Sammamish	WA	US	01:00:00
+1692	Eric Vezie	Mill Valley	CA	US	01:00:00
+1692	Morgan Youngs	SEATTLE	WA	US	01:00:00
+1695	Tonima Hossain	Redmond	WA	US	01:00:02
+1696	Vipul Uplenchwar	Redmond	WA	US	01:00:12
+1697	Vidisha Holsambre	Johns Creek	GA	US	01:00:19
+1698	Shashank Weginwar	Bothell	WA	US	01:00:25
+1699	Sushmita Das	Seattle	WA	US	01:00:29
+1700	Emily Rowland	Seattle	WA	US	01:00:35
+1701	Varsha Holsambre	Johns Creek	GA	US	01:00:40
+1702	Laci Brace	Seattle	WA	US	01:00:41
+1703	Rafael Kim	Issaquah	WA	US	01:00:43
+1704	Eric Kim	Issaquah	WA	US	01:00:44
+1705	Charly Tracy	Redmond	WA	US	01:00:57
+1706	Drew Ryder	Seattle	WA	US	01:01:00
+1706	Molly Wohl	Seattle	WA	US	01:01:00
+1708	Tori Conte	RIVERVIEW	FL	US	01:01:01
+1709	Christopher Conte	RIVERVIEW	FL	US	01:01:02
+1710	Kathy Parker	Sammamish	WA	US	01:01:03
+1711	Joyce Yeung	San Jose	CA	US	01:01:08
+1712	Aneetha Jayaraman	Redmond	WA	US	01:01:09
+1713	Jeff Malec	Richardson	NY	US	01:01:16
+1714	Brittany Lewis	Ellensburg	WA	US	01:01:21
+1715	Ritika Ugave	Charlotte	NC	US	01:01:22
+1716	Pushpit Thohan	Charlotte	NC	US	01:01:26
+1717	Steven Owens	BRANDON	FL	US	01:01:27
+1718	Viney Ugave	Charlotte	NC	US	01:01:28
+1719	Mark Hughes	MOORHEAD	MN	US	01:01:32
+1720	Roberto Mardeni	Doral	FL	US	01:01:34
+1721	Mindi Wilson	Lees Summit	MO	US	01:01:36
+1722	Pamela Heldenbrand	Sunnyvale	CA	US	01:01:37
+1723	Tomilola Abiodun	Bellevue	WA	US	01:01:38
+1724	Danielle Lirette	Redmond	WA	US	01:01:44
+1725	Yinfan Chu	Bellevue	WA	US	01:01:45
+1726	Joy Allen	Sarasota	FL	US	01:01:45
+1726	Wendy Sanstrom	Newington	CT	US	01:01:45
+1726	Bonnie Wojtowicz	Newington	CT	US	01:01:45
+1729	Vishakha Holsambre	Johns Creek	GA	US	01:01:46
+1730	Chris Mazza	Redmond	WA	US	01:01:51
+1730	Alisa Stewart	Redmond	WA	US	01:01:51
+1732	Caig Buchanan	mukilteo	WA	US	01:01:52
+1732	Suzanne Buchanan	Mukilteo	WA	US	01:01:52
+1734	Susan Chulick	kirkland	WA	US	01:01:57
+1735	Vinay Holsambre	Johns Creek	GA	US	01:01:58
+1736	Sheilah Brandon	Redmond	WA	US	01:02:00
+1737	Dana Holden	King of Prussia	PA	US	01:02:01
+1738	Suzanne Beecham	Dallas	TX	US	01:02:16
+1739	Brian Hwang	Bellevue	WA	US	01:02:17
+1740	David Jackson	WOODBRIDGE	VA	US	01:02:22
+1741	Lindsay Friddle	Lees Summit	MO	US	01:02:22
+1742	Sundar Mohan	Sunnyvale	CA	US	01:02:30
+1742	Vidya Mohan	Sunnyvale	CA	US	01:02:30
+1744	Fiona Cheng	San Jose	CA	US	01:02:39
+1745	Nicola Gibson	San Francisco	CA	US	01:02:41
+1746	Arjun Chiddarwar	Redmond	WA	US	01:02:45
+1747	Catherine Devine	Bellevue	WA	US	01:02:52
+1748	Doug Mezo	Snohomish	WA	US	01:02:55
+1749	Ke Xiao	Kirkland	WA	US	01:02:55
+1750	Aruna Jayanti	Redmond	WA	US	01:03:00
+1750	Lingfeng Wu	Kirkland	WA	US	01:03:00
+1752	Linden Hale	Kenmore	WA	US	01:03:10
+1753	Thomas Resing	Kirkland	WA	US	01:03:10
+1754	Nicole Pauling	Keller	TX	US	01:03:10
+1755	Darcy Malin	Kirkland	WA	US	01:03:19
+1756	Michelle Mains	Redmond	WA	US	01:03:24
+1757	Yow-Gwo Wang	Portland	OR	US	01:03:43
+1757	Jaime Weber	Redmond	WA	US	01:03:43
+1759	Nicole Christie	San Diego	CA	US	01:03:45
+1760	Julie Fulton	Bothell	WA	US	01:03:46
+1761	Samuel De Freitas Martins	Seattle	WA	US	01:03:54
+1762	Randy Jorgensen	Bothell	WA	US	01:03:57
+1763	Jeffrey Taylor	FRISCO	TX	US	01:03:57
+1764	Swetha Jyothula	Bothell	WA	US	01:04:07
+1765	Adam Cave	Brambleton	VA	US	01:04:15
+1766	Ethan Cave	Brambleton	VA	US	01:04:15
+1766	Booyeon Kim	Brambleton	VA	US	01:04:15
+1768	Emma Bridle	Kirkland	WA	US	01:04:18
+1769	Ya-Pin Carol Yang	Issaquah	WA	US	01:04:22
+1770	Diogo Bezerra	Brooklyn	NY	US	01:04:26
+1771	Katy Roberts	Suwanee	GA	US	01:04:52
+1772	Marla Bennett	Duvall	WA	US	01:05:00
+1772	Eve Blakemore	Issaquah	WA	US	01:05:00
+1772	Vijeyanandh Palaniappan	Redmond	WA	US	01:05:00
+1772	Bruce Szabo	Cleveland	OH	US	01:05:00
+1776	Alex Kureen	REDMOND	WA	US	01:05:01
+1777	Christopher Swenson	Seattle	WA	US	01:05:13
+1778	Evelina Shin	Kirkland	WA	US	01:05:22
+1779	Jeff Steinbok	Sammamish	WA	US	01:05:23
+1780	Debra Zdrojewski	Renton	WA	US	01:05:26
+1781	Jill Hendrick	Mercer Island	WA	US	01:05:27
+1782	Phuoc Steven Nguyen	Bellevue	WA	US	01:05:29
+1783	Krista Bradley	Bothell	WA	US	01:05:41
+1784	Shu Hong	Sammamish	WA	US	01:05:46
+1785	Ania Kaplon	Melrose Park	IL	US	01:05:46
+1786	Linda Baez	Melrose Park	IL	US	01:05:47
+1787	Steven OBrien	HERNDON	VA	US	01:05:57
+1788	Margaret Moreno	Redmond	WA	US	01:06:00
+1788	Martin Moreno	Redmond	WA	US	01:06:00
+1790	Megan Johnson	Duvall	WA	US	01:06:06
+1791	Matthew Stockhaus	Fairfax	VA	US	01:06:11
+1792	Lan Tang	Redmond	WA	US	01:06:13
+1793	Norhan Elassy	Woodinville	WA	US	01:06:22
+1794	Olga Sakharova	Issaquah	WA	US	01:06:32
+1795	Pam Sellers	Fishers	IN	US	01:06:35
+1796	Nicole Dezen	Kirkland	WA	US	01:06:39
+1797	Joseph Giambrone III	Chicago	IL	US	01:06:41
+1798	Rob McGilvrey	Lantana	TX	US	01:06:45
+1799	Talora Smiley	Haltom City	TX	US	01:06:49
+1800	Jovial Terry-Jackson	WOODBRIDGE	VA	US	01:07:05
+1801	Darwin Brackx	Shoreline	WA	US	01:07:05
+1801	Jennifer Clarke	Shoreline	WA	US	01:07:05
+1803	Davin Jeanquart	Redmond	WA	US	01:07:08
+1804	Kashmira Engineer	Redmond	WA	US	01:07:08
+1805	Tanya Beutler	Moorhead	MN	US	01:07:13
+1806	Viktor Burdeinyi	Issaquah	WA	US	01:07:21
+1807	Marie Progl	Carnation	WA	US	01:07:26
+1808	Ann Riggs	Vancouver	WA	US	01:07:42
+1809	Natasha Pittman	Arlington	VA	US	01:08:12
+1810	Hannah Snesil	Richmond	VA	US	01:08:13
+1811	John Reed	Kirkland	WA	US	01:08:16
+1812	Matthew Kernek	Seattle	WA	US	01:08:16
+1813	Wylie Graham	Katonah	NY	US	01:08:20
+1814	Kayla Patterson	McCordsville	IN	US	01:08:21
+1815	Angela Muir	Lynnwood	WA	US	01:08:27
+1816	Shawn Patterson	McCordsville	IN	US	01:08:35
+1817	Jordan Brace	Seattle	WA	US	01:08:48
+1818	Sarah Solis	Bellevue	WA	US	01:08:54
+1819	Hitesh Patel	Bothell	WA	US	01:08:54
+1820	Tasha Brown	Northlake	TX	US	01:09:02
+1821	Thomas Kern	Seattle	WA	US	01:09:12
+1822	Risa Naka	Redmond	WA	US	01:09:14
+1823	Natalja Grigorjeva	Kirkland	WA	US	01:09:14
+1824	David Sanchez	BOTHELL	WA	US	01:09:18
+1825	Mandy Loscalzo	Bellevue	WA	US	01:09:19
+1826	Denzell Turner	BELLEVUE	WA	US	01:09:30
+1827	Vimala Jampala	Bothell	WA	US	01:09:56
+1828	Sirisha Bitra	Redmond	WA	US	01:10:00
+1828	Chris Connors	Morristown	NJ	US	01:10:00
+1828	Margo Connors	Morristown	NJ	US	01:10:00
+1828	Karen Goodman	Hilton Head Island	SC	US	01:10:00
+1828	Megan Kelly	Honey Brook	PA	US	01:10:00
+1828	Erika Locke	Bothell	WA	US	01:10:00
+1828	Andrea Scott	Sammamish	WA	US	01:10:00
+1828	Sergei Vinogradov	Bellevue	WA	US	01:10:00
+1836	Ramya Rajashekara	Sammamish	WA	US	01:10:01
+1836	Abhav Rajashekara	Sammamish	WA	US	01:10:01
+1838	Ryan Hansen	Redmond	WA		01:10:02
+1839	Kanishtha Gavandi	Kirkland	WA	US	01:10:03
+1840	Nelson Sanchez	Lantana	TX	US	01:10:03
+1841	Becky Schoen	Snoqualmie	WA	US	01:10:07
+1842	Greg Giesking	Frankfort	IL	US	01:10:10
+1843	Sophia Giesking	Frankfort	IL	US	01:10:11
+1844	Wan Rahardja	SEATTLE	WA	US	01:10:15
+1845	Callan Rahardja	SEATTLE	WA	US	01:10:17
+1846	Ares Rahardja	SEATTLE	WA	US	01:10:20
+1847	Lauren Wooley	Seattle	WA	US	01:10:29
+1848	Mike Lewis	Lawrenceville	GA	US	01:10:35
+1849	Michael Smuga	Seattle	WA	US	01:10:36
+1850	Peter Mann	Sammamish	WA	US	01:10:39
+1851	Baien Nagamatsu	shoreline	WA	US	01:10:50
+1852	Andrew Tognela	Austin	TX	US	01:11:00
+1853	Christine Couch	Springfield	VA	US	01:11:01
+1854	Brenda Nakano	Redmond	WA	US	01:11:03
+1855	Kathren Korsky	Redmond	WA	US	01:11:11
+1856	Elise Baldwin	Seattle	WA	US	01:11:26
+1857	Antonina Malyarenko	Seattle	WA	US	01:11:34
+1858	Nikki Thomas	Seattle	WA	US	01:11:42
+1859	Rob Frye	SEATTLE	WA	US	01:11:44
+1860	Cameron Battagler	West Fargo	ND	US	01:12:00
+1860	Demetrios Kalligerakis	Sammamish	WA	US	01:12:00
+1860	Maya Kalligerakis	Sammamish	WA	US	01:12:00
+1860	Elizabeth McFarlane	SEATTLE	WA	US	01:12:00
+1864	Erica Shepard	Sammamish	WA	US	01:12:10
+1865	Danielle Harden	Bellevue	WA	US	01:12:18
+1866	Audrey Bridges	Everett	WA	US	01:12:23
+1867	Harry Hao	Redmond	WA	US	01:12:29
+1868	Pamela Baughman	Bothell	WA	US	01:12:30
+1869	Derek Boxdell	Dallas	TX	US	01:12:49
+1870	Justin Schoen	Snoqualmie	WA	US	01:12:49
+1871	Ashik Samad	Bellevue	WA	US	01:12:56
+1872	Katie Bristow Myers	Woodinville	WA	US	01:12:56
+1873	Harinarayan Paramasivan	Redmond	WA	US	01:12:59
+1874	Sally Frank	Cornelius	NC	US	01:13:00
+1875	Anton Nikolenko	Kent	WA	US	01:13:03
+1876	Nalini Chandrasekaran	Remond	WA	US	01:13:05
+1876	Chandar Raghavan	Redmond	WA	US	01:13:05
+1878	Jessica Miller	Seattle	WA	US	01:13:11
+1879	David Levine	Oak Park	IL	US	01:13:14
+1880	Josh Lee	Horace	ND	US	01:13:17
+1881	Ian Drynan	Bellevue	WA	US	01:13:21
+1881	Linda Hong	Bellevue	WA	US	01:13:21
+1881	Eun Lee	Bellevue	WA	US	01:13:21
+1881	Yeong-ung Yang	Bellevue	WA	US	01:13:21
+1881	Evelyn Yang	Bellevue	WA	US	01:13:21
+1886	Reja Rasheed	Bellevue	WA	US	01:13:35
+1887	Carol Bush	Seattle	WA	US	01:13:42
+1888	Sung Min Kim	Bothell	WA	US	01:13:47
+1889	Colleen Galore	Pittsburgh	PA	US	01:14:00
+1890	Abhinav Sushanth Ganji	Redmond	WA	US	01:14:07
+1891	Sheila Espenel	Portland	OR	US	01:14:07
+1892	Richard Kaufman	STAFFORD	VA	US	01:14:44
+1893	K C	Bellevue	WA	US	01:15:01
+1894	Andre Cossy	SAN JOSE	CA	US	01:15:02
+1894	Adrian Cossy	SAN JOSE	CA	US	01:15:02
+1894	Michael Cossy	San Jose	CA	US	01:15:02
+1894	Carla Cossy	SAN JOSE	CA	US	01:15:02
+1898	Carolyn Shuford	Bellevue	WA	US	01:15:07
+1899	Fumiko Arao Felix	Redmond	WA	US	01:15:40
+1900	Kerri Davis	Redmond	WA	US	01:15:54
+1901	Yurina Nakasuji	Bellevue	WA	US	01:15:55
+1902	Kyle Kapphahn	Newberg	OR	US	01:15:57
+1903	Diksha Goyal	Bellevue	WA	US	01:16:04
+1904	Mary Giambrone	Bellevue	WA	US	01:16:13
+1905	Irene White	Lake Forest Park	WA	US	01:16:44
+1906	Kip Olson	Mercer Island	WA	US	01:17:08
+1907	Chanrath Voeun	Warminster	PA	US	01:17:15
+1908	Gary Hildebrand	Redmond	WA	US	01:17:16
+1909	Nathan Lew	Kirkland	WA	US	01:17:33
+1910	Kim Kaplan	Woodinville	WA	US	01:17:41
+1911	Daniel Anderson	Bonney Lake	WA	US	01:17:41
+1912	Justine Coates	Redmond	WA	US	01:17:47
+1913	Orlagh Neary	Redmond	WA	US	01:17:53
+1914	Marise Chan	Redmond	WA	US	01:17:55
+1915	Khushboo Chandrachud	Sammamish	WA	US	01:17:59
+1915	Amar Desai	Sammamish	WA	US	01:17:59
+1917	Emily Krueger	Seattle	WA	US	01:18:05
+1918	Kiana Ward	Duvall	WA	US	01:18:27
+1918	Ikaika Ward	Duvall	WA	US	01:18:27
+1920	Brian Yan	Seattle	WA	US	01:18:28
+1921	Lewis Scaife	Frisco	TX	US	01:18:44
+1922	Laura Cameron	Seattle	WA	US	01:18:54
+1923	Perry Xu	Bellevue	WA	US	01:18:56
+1924	Jeff Cody	Estero	FL	US	01:19:21
+1925	Kathy Thompson	Seattle	WA	US	01:19:29
+1926	David Dukro	Cary	NC	US	01:20:00
+1926	Amari Johnson	Apollo Beach	FL	US	01:20:00
+1928	Masha Makarenkova	Sammamish	WA	US	01:20:04
+1929	Bridget Peaco	Fort Worth	TX	US	01:20:13
+1930	Kelly Babigian	Seattle	WA	US	01:20:17
+1931	Elizabeth Hamilton	Walton Hills	OH	US	01:20:19
+1932	Allan Richmond Morales	Harwood Heights	IL	US	01:20:27
+1933	Fran Rivera	Prosser	WA	US	01:20:48
+1934	Brad Turner	Sammamish	WA	US	01:21:12
+1935	Madhavi Mallampati	Bellevue	WA	US	01:21:55
+1936	Susan Whiston	Redmond	WA	US	01:21:56
+1937	Franz Lenhardt Pino	KIRKLAND	WA	US	01:22:00
+1937	Olivia Lenhardt Pino	KIRKLAND	WA	US	01:22:00
+1939	Steve Moses	Beachwood	OH	US	01:22:03
+1940	Korey Haug	Snohomish	WA	US	01:22:05
+1941	Denisa Farago	Redmond	WA	US	01:22:42
+1942	Craig Liljegren	Woodinville	WA	US	01:22:57
+1943	Jit McCarthy	Lynnwood	WA	US	01:23:00
+1943	Finnegan McCarthy	Lynnwood	WA	US	01:23:00
+1943	Donovan McCarthy	Lynnwood	WA	US	01:23:00
+1946	Fred Diggs	Bellevue	WA	US	01:23:17
+1947	Nir Yurman	Redmond	WA	US	01:23:47
+1948	Subodh Nijsure	Oakland	CA	US	01:25:00
+1948	KayLee Vogt	Bellevue	WA	US	01:25:00
+1950	Sneha Vasisht	Bothell	WA	US	01:25:41
+1951	Sophia Shami	Redmond	WA	US	01:26:02
+1952	Douglas Kurata	Port Townsend	WA	US	01:26:10
+1952	Drew Kurata	Port Townsend	WA	US	01:26:10
+1952	Bennett Montgomery	Port Townsend	WA	US	01:26:10
+1955	David McCarter	Wenatchee	WA	US	01:26:12
+1956	Monique Anello	TUKWILA	WA	US	01:26:17
+1957	Wendy Baune	Bellevue	WA	US	01:27:00
+1958	Angelica Martinez	Novato	CA	US	01:27:36
+1959	Andie Kindred	Olathe	KS	US	01:27:51
+1959	Andrew Kipp	Olathe	KS	US	01:27:51
+1961	Rosalyn DeCastro	Sammamish	WA	US	01:27:54
+1962	Maria Bacci	Seattle	WA	US	01:28:00
+1963	Ricardo Ramirez Romero	Petaluma	CA	US	01:28:13
+1964	Saundra Inman	Inver Grove Heights	MN	US	01:30:00
+1964	Narayanan Madhu	sammamish	WA	US	01:30:00
+1964	Lulu Tang	Redmond	WA	US	01:30:00
+1964	Maralee Vezie	Mill Valley	CA	US	01:30:00
+1964	Rico Xiong	bellevue	WA	US	01:30:00
+1969	Jane Kurata	Port Townsend	WA	US	01:30:02
+1969	Maxwell Montgomery	Port Townsend	WA	US	01:30:02
+1971	Jack Jenkins	Clover	SC	US	01:30:59
+1972	April Hoang	Kirkland	WA	US	01:30:59
+1973	John Calandrino	Lithia	FL	US	01:31:47
+1974	Danna Jennings	Brookeville	MD	US	01:32:54
+1975	Grace Bakuya	CARROLLTON	TX	US	01:32:59
+1976	Colleen Messing	Broadlands	VA	US	01:33:39
+1977	Steve Galore	Pittsburgh	PA	US	01:35:10
+1978	Gustavo Osorio	Evanston	IL	US	01:35:13
+1979	Phylicia Zebrowski	Marshall	VA	US	01:35:15
+1980	Kellie Hill	Carmichael	CA	US	01:35:16
+1981	Lynn Liao	Sammamish	WA	US	01:35:19
+1982	Tyshara Lawson	River Ridge	LA	US	01:35:53
+1983	Daniel Burrows	Sammamish	WA	US	01:36:29
+1984	Lee Howard	REDMOND	WA	US	01:38:06
+1985	Alan Garcia	Carmichael	CA	US	01:38:08
+1986	Davinder Khunkhun	Carmichael	CA	US	01:38:15
+1987	Ozioma Nsaka	Houston	TX	US	01:39:05
+1988	Sean Dorsett	Moreno Valley	CA	US	01:41:47
+1989	Katrina Green	Seattle	WA	US	01:44:00
+1990	Elena Du	Sammamish	WA	US	01:44:02
+1990	Gavin Du	Sammamish	WA	US	01:44:02
+1992	Claire Vezie	Seattle	WA	US	01:45:00
+1993	Pranav Nagarajan	Seattle	WA	US	01:45:57
+1994	Yan Peng	Sammamish	WA	US	01:47:24
+1995	Mandy Lande	Lyndhurst	OH	US	01:47:29
+1995	Carly Marino	Wickliffe	OH	US	01:47:29
+1997	Jason Ritchie	Trophy Club	TX	US	01:49:31
+1998	Ekaterina Belkina	Woodinville	WA	US	01:49:58
+1999	Ephigenie Dela Cruz	Redmond	WA	US	01:51:06
+2000	Diana Lin	Redmond	WA	US	01:54:26
+2001	Lisa Minas	Seattle	WA	US	01:55:54
+2002	Lee Pauling	Keller	TX	US	01:57:38
+2003	Julian Fiallo	Seattle	WA	US	01:59:36
+2004	John Daskalakis	Central Islip	NY	US	02:00:00
+2005	Connie Eaton	Pittsburgh	PA	US	02:00:02
+2006	Dhiya Gerber	Kirkland	WA	US	02:03:00
+2007	Tunde Toth	Kirkland	WA	US	02:05:13
+2008	Kevin Yang	Sunnyvale	CA	US	02:12:57
+2009	John Mighell	Kent	WA	US	02:14:41
+2010	James Li	Bothell	WA	US	02:15:00
+2011	Aleksandra Dziewulska	Bellevue	WA	US	02:16:06
+2012	GiGi Blanchette	Kirkland	WA	US	02:20:20
+2013	Jusan Yeh	Bellevue	WA	US	02:25:22
+2014	Brenda Fernandez	bellevue	WA	US	02:30:50
+2015	Jenny Tsa	Bellevue	WA	US	02:35:10
+2016	Zhinan Zhou	BELLEVUE	WA	US	02:39:59
+2017	Neda Vassey	Bellevue	WA	US	02:42:17
+2018	Glory Jayagaran	Sammamish	WA	US	02:45:20
+2019	Mirela Omerovic	Seattle	WA	US	02:48:19
+2020	Vincent Zhou	BELLEVUE	WA	US	02:50:10
+2021	Poojan Dave	Richmond	CA	US	02:56:06
+2022	Zuzu Tang	Bellevue	WA	US	03:00:00
+2023	Sarah Mocke	Seattle	WA	US	03:01:08
+2024	Nan Lu	Bellevue	WA	US	03:04:05
+2025	Lucky Adike	Silverdale	WA	US	03:06:13
+2026	Alexis Flores	Seattle	WA	US	03:10:20
+2027	Angela Eun	Seattle	WA	US	03:20:00
+2028	Alex Hurley	Snohomish	WA	US	03:21:57
+2029	Janelle Coolich	New York	NY	US	03:25:24
+2030	Albert Ciprut	Shrewsbury	MA	US	03:30:00
+2030	Cameron DelForge	Shrewsbury	MA	US	03:30:00
+2032	Julie Vandehey	Woodinville	WA	US	03:30:03
+2033	Christine Zhang	BELLEVUE	WA	US	03:32:20
+2034	Andrew Espidol	Bothell	WA	US	04:00:00
+2034	Linh Nguyen	Bothell	WA	US	04:00:00
+2036	Muhammad Alam	Bellevue	WA	US	04:21:40
+2037	Jessica White	Plano	TX	US	04:30:01
+2038	Liza Gray	Nashville	TN	US	04:37:36
+2039	Adam Weber	Redmond	WA	US	05:24:00
+2040	Geo Kang	Gaithersburg	MD	US	06:00:01
+2041	Robert Hilker	Woodinville	WA	US	15:48:46
+2042	Varun Panuganti	Issaquah	WA	US	20:07:00
+2043	Qianjun Xu	Issaquah	WA	US	22:49:57
+2044	Anna Marks	Bellevue	WA	US	26:20:54
+2044	Preston Marks	Bellevue	WA	US	26:20:54
+2046	David Marks	Bellevue	WA	US	26:20:55
+2047	Emma Nagel	Seattle	WA	US	29:16:34
+2048	Janna Fain				29:58:00
+2049	Primoz Karlin	Bellevue	WA	US	30:03:16
+2050	Jaspreet Kaur Nijjar	Sammamish	WA	US	33:00:00
+2051	Chris Ferrell	Fort Worth	TX	US	33:32:55
+2052	Levin Key	Fort Worth	TX	US	33:33:05
+2053	Momoko Yamamoto	Duvall	WA	US	37:04:53
+2054	Bradley Allen	Marietta	GA	US	37:38:30
+2055	Oana Ilioaia	SF	CA	US	47:45:00
+2056	Yunsun Wee	Redmond	WA	US	55:10:00
+2057	Ashwini Kalokhe	issaquah	WA	US	60:00:00
+2058	Mara Liston	Woodinville	WA	US	68:20:32
+2059	Rob Bolbotowski	Wake Forest	NC	US	96:16:14
