@@ -90,28 +90,39 @@ dat$finish_time <- dat$finish_time %>%
 dat$decimal_pace <- (as.numeric(dat$finish_time) / 60) / 3.10685596
 
 
-##
-## Take a sample of the population and analyze 
-##
+###############################
+## Extract data for analysis ##
+###############################
 
-# establish sample size and target variable
-sample_size <- 30
 # remove outliers from people's 5k pace
-max_half_pace <- 21.57
+max_half_pace <- 25 #21.57
 
 dat_pop <- dat %>% 
   filter(decimal_pace <= max_half_pace) %>% 
   select(decimal_pace) %>% 
   unlist()
 
+
+###############################
+## Take a sample of the data ##
+###############################
+
+# establish sample size and target variable
+sample_size <- 30
+
 # take the sample
 seed_val <- 549 
 set.seed(seed_val)
 dat_sample <- sample(dat_pop, sample_size) 
 
+
+#######################################
+## Compare the sample and population ##
+#######################################
+
 # test the fit of the sample
-# for p-value < .05, we reject the null hypothesis: 
-# the sample data does not come from a normal distribution.
+# for p-value < .05, we reject the null hypothesis:
+# the distributions are not the same.
 test_fit <- ks.test(dat_sample, dat_pop)
 test_fit$p.value
 test_fit$statistic
@@ -169,30 +180,56 @@ ks.test(dat_pop,
 #  View()
 
 
-# compare mean and standard deviation
+# compare summary stats
 mean(dat_pop)
 mean(dat_sample)
 
+median(dat_pop)
+median(dat_sample)
+
 sd(dat_pop)
+sd(dat_pop) ^ 2
 sd(dat_sample)
 
 # mode
 d_mode(dat_pop)
 d_mode(dat_sample)
 
+
+# calc the average in minutes and seconds
+mean(dat_pop) 
+as.integer(mean(dat_pop)) # minutes
+(mean(dat_pop) - as.integer(mean(dat_pop))) * 60 # seconds
+
+# Gaussian median = mode = mean
+mean(dat_pop)
+median(dat_pop)
+d_mode(dat_pop)
+
+
+# does the the population stat (i.e., the "true" values) fall within 
+# the standard error of the sample stats?
+dat_source <- dat_sample
+se <- sd(dat_source) / sqrt(length(dat_source))
+CI_upper <- mean(dat_source) + se 
+CI_lower <- mean(dat_source) - se 
+
+(mean(dat_pop) < CI_upper) & (mean(dat_pop) > CI_lower)
+
+
 # note that the sample might not be large enough to
 # simply identify the most frequently occurring number 
 Mode(dat_pop)
 Mode(dat_sample)
 
-# determine size of confidence interval (CI)
-conf_int <- .95
-z_score <- qnorm((1 - conf_int) / 2, lower.tail=FALSE)
 
+# if the race is only a sample from all possible races, 
 # calculate the standard error and look at the CI range
-se <- sd(dat_sample) / sqrt(sample_size)
-CI_upper <- mean(dat_sample) + z_score * se
-CI_lower <- mean(dat_sample) - z_score * se
+dat_source <- dat_pop
+se <- sd(dat_source) / sqrt(length(dat_source))
+CI_upper <- mean(dat_source) + se 
+CI_lower <- mean(dat_source) - se 
+
 
 # orders of magnitude slower
 mean(dat_pop)
@@ -201,29 +238,43 @@ mean(dat_pop) * 10 ^ 6
 
 # visually compare the results
 ggplot() +
-  # draw the population's pdf
-  geom_density(data = data.frame(pace = dat_pop), aes(x = pace)) + 
+  ## Population
+  # kernel density
+  #geom_density(data = data.frame(pace = dat_pop), aes(x = pace)) + 
+  # historgram
+  geom_histogram(data = data.frame(pace = dat_pop), 
+                 aes(x = pace, y = ..density..),
+                 alpha = 0.5,
+                 bins = 2 * ceiling(max(dat_pop) - min(dat_pop))
+                 ) +
+  # summary stats
   geom_vline(xintercept = mean(dat_pop), linetype = 'longdash') + 
-  #geom_vline(xintercept = d_mode(dat_pop), linetype = 'dotdash') +
+  geom_text(aes(x = mean(dat_pop) * 0.97, label = "mean", y = .01), colour = 'black', angle = 90) +
+  geom_vline(xintercept = d_mode(dat_pop), linetype = 'dotdash') +
+  geom_text(aes(x = d_mode(dat_pop) * 0.965, label = "mode", y = .01), colour = 'black', angle = 90) +
+  geom_vline(xintercept = median(dat_pop), linetype = 'dotted') +
+  geom_text(aes(x = median(dat_pop) * 0.965, label = "median", y = .01), colour = 'black', angle = 90) +
   
-  # draw the sample's pdf
+  ## Sample
+  # kernel density
   #geom_density(data = data.frame(pace = dat_sample), aes(x = pace), color = 'red') +
+  # summary stats
   #geom_vline(xintercept = mean(dat_sample), color = 'red', linetype = 'longdash') + 
   #geom_rect(aes(xmin = CI_lower, xmax = CI_upper, ymin = -Inf, ymax = Inf), fill = 'red', alpha = 0.05) +
   #geom_vline(xintercept = d_mode(dat_sample), color = 'red', linetype = 'dotdash') +
   
-  # draw the gaussian, based upon the population
-  stat_function(fun = dnorm, n = 1000, args = list(mean = mean(dat_pop), sd = sd(dat_pop)), color = 'blue') + ylab("density") +
-  geom_vline(xintercept = mean(dat_pop), linetype = 'dotted', color = 'blue') +
+  # population's gaussian
+  stat_function(fun = dnorm, args = list(mean = mean(dat_pop), sd = sd(dat_pop)), color = 'blue') + ylab("density") +
+  #geom_vline(xintercept = mean(dat_pop), linetype = 'dotted', color = 'blue') +
   
-  # draw the gaussian, based upon the sample
-  #stat_function(fun = dnorm, n = 100, args = list(mean = mean(dat_sample), sd = sd(dat_pop)), color = 'blue') + ylab("density") +
+  # sample's gaussian
+  #stat_function(fun = dnorm, args = list(mean = mean(dat_sample), sd = sd(dat_pop)), color = 'blue') + ylab("density") +
   #geom_vline(xintercept = mean(dat_pop), linetype = 'dotted', color = 'blue') +
   
   # add a title
-  #xlim(c(0,30)) +
+  xlim(c(0, max(dat_pop) * 1.05)) +
   #labs(title = 'pdf') 
-  labs(title = paste0('Seed: ', seed_val, ', K-S stat: ', round(test_fit$statistic, 2), ', p-val: ', round(test_fit$p.value, 2)))
-
-
+  #labs(title = paste0('Seed: ', seed_val, ', K-S stat: ', round(test_fit$statistic, 2), ', p-val: ', round(test_fit$p.value, 2)))
+  #labs(title = 'Half-marathon pace times', x = 'pace (minutes/mile)')
+  labs(title = '5k pace times', x = 'pace (minutes/mile)')
 
