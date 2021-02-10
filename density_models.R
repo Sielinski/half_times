@@ -94,8 +94,14 @@ dat$decimal_pace <- (as.numeric(dat$finish_time) / 60) / 3.10685596
 ## Extract data for analysis ##
 ###############################
 
+# find my pace
+my_pace <- dat %>% 
+  filter(str_detect(str_to_upper(name), 'SIELINSKI')) %>% 
+  select(decimal_pace) %>% 
+  as.numeric()
+
 # remove outliers from people's 5k pace
-max_half_pace <- 25 #21.57
+max_half_pace <- 22 #25 #21.57
 
 dat_pop <- dat %>% 
   filter(decimal_pace <= max_half_pace) %>% 
@@ -188,7 +194,7 @@ median(dat_pop)
 median(dat_sample)
 
 sd(dat_pop)
-sd(dat_pop) ^ 2
+round(sd(dat_pop) ^ 2, 1)
 sd(dat_sample)
 
 # mode
@@ -270,6 +276,9 @@ ggplot() +
   # sample's gaussian
   #stat_function(fun = dnorm, args = list(mean = mean(dat_sample), sd = sd(dat_pop)), color = 'blue') + ylab("density") +
   #geom_vline(xintercept = mean(dat_pop), linetype = 'dotted', color = 'blue') +
+  
+  # my pace
+  #geom_vline(xintercept = my_pace, linetype = 'dotted', color = 'purple') +
   
   # add a title
   xlim(c(0, max(dat_pop) * 1.05)) +

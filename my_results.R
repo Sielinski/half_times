@@ -3,7 +3,7 @@ my_pace <- dat %>%
   select(decimal_pace) %>% 
   as.numeric()
 
-max_half_pace <- 21.57
+max_half_pace <- 22
 
 dat_stats <- dat %>%
   filter(decimal_pace <= max_half_pace) %>%
@@ -25,3 +25,4 @@ dat %>%
   select(place) %>% 
   #as.numeric() / max(dat$place)
   as.numeric() / max(filter(dat, decimal_pace <= max_half_pace)$place)
+
