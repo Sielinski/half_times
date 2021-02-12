@@ -125,25 +125,25 @@ ggplot(dat_mm) +
   #) +
 
   # summary statistics
-  geom_vline(xintercept = cluster_stats$mean[1], linetype = 'longdash') + 
-  #geom_text(aes(x = cluster_stats$mean[1] * 0.97, label = "mean", y = .01), colour = 'black', angle = 90) +
-  geom_vline(xintercept = cluster_stats$mode[1], linetype = 'dotdash') +
-  #geom_text(aes(x = cluster_stats$mode[1] * 0.965, label = "mode", y = .01), colour = 'black', angle = 90) +
-  geom_vline(xintercept = cluster_stats$median[1], linetype = 'dotted') +
-  #geom_text(aes(x = cluster_stats$median[1] * 0.965, label = "median", y = .01), colour = 'black', angle = 90) +
-  
-  geom_vline(xintercept = cluster_stats$mean[2], linetype = 'longdash') + 
-  #geom_text(aes(x = cluster_stats$mean[2] * 0.97, label = "mean", y = .01), colour = 'black', angle = 90) +
-  geom_vline(xintercept = cluster_stats$mode[2], linetype = 'dotdash') +
-  #geom_text(aes(x = cluster_stats$mode[2] * 0.965, label = "mode", y = .01), colour = 'black', angle = 90) +
-  geom_vline(xintercept = cluster_stats$median[2], linetype = 'dotted') +
-  #geom_text(aes(x = cluster_stats$median[2] * 0.965, label = "median", y = .01), colour = 'black', angle = 90) +
+  #geom_vline(xintercept = cluster_stats$mean[1], linetype = 'longdash') + 
+  ##geom_text(aes(x = cluster_stats$mean[1] * 0.97, label = "mean", y = .01), colour = 'black', angle = 90) +
+  #geom_vline(xintercept = cluster_stats$mode[1], linetype = 'dotdash') +
+  ##geom_text(aes(x = cluster_stats$mode[1] * 0.965, label = "mode", y = .01), colour = 'black', angle = 90) +
+  #geom_vline(xintercept = cluster_stats$median[1], linetype = 'dotted') +
+  ##geom_text(aes(x = cluster_stats$median[1] * 0.965, label = "median", y = .01), colour = 'black', angle = 90) +
+  #
+  #geom_vline(xintercept = cluster_stats$mean[2], linetype = 'longdash') + 
+  ##geom_text(aes(x = cluster_stats$mean[2] * 0.97, label = "mean", y = .01), colour = 'black', angle = 90) +
+  #geom_vline(xintercept = cluster_stats$mode[2], linetype = 'dotdash') +
+  ##geom_text(aes(x = cluster_stats$mode[2] * 0.965, label = "mode", y = .01), colour = 'black', angle = 90) +
+  #geom_vline(xintercept = cluster_stats$median[2], linetype = 'dotted') +
+  ##geom_text(aes(x = cluster_stats$median[2] * 0.965, label = "median", y = .01), colour = 'black', angle = 90) +
   
   # my pace
   #geom_vline(xintercept = my_pace, linetype = 'dotted', color = 'purple') +
   
   # make sure this matches the other plot
-  xlim(c(0, max(dat_pop) * 1.05)) +
+  scale_x_continuous(limits = c(0, max(dat_pop) * 1.05), labels = function(x) paste0(x, ':00')) +
   labs(title = '5k pace times', x = 'pace (minutes/mile)')
 
  cluster_stats

@@ -281,9 +281,9 @@ ggplot() +
   #geom_vline(xintercept = my_pace, linetype = 'dotted', color = 'purple') +
   
   # add a title
-  xlim(c(0, max(dat_pop) * 1.05)) +
+  scale_x_continuous(loimits = c(0, max(dat_pop) * 1.05), labels = function(x) paste0(x, ':00')) +
   #labs(title = 'pdf') 
   #labs(title = paste0('Seed: ', seed_val, ', K-S stat: ', round(test_fit$statistic, 2), ', p-val: ', round(test_fit$p.value, 2)))
-  #labs(title = 'Half-marathon pace times', x = 'pace (minutes/mile)')
+  labs(title = 'Half-marathon pace times', x = 'pace (minutes/mile)')
   labs(title = '5k pace times', x = 'pace (minutes/mile)')
 

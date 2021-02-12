@@ -1,3 +1,5 @@
+# https://stats.stackexchange.com/questions/78711/how-to-find-estimate-probability-density-function-from-density-function-in-r
+
 df <- approxfun(density(dat_pop))
 plot(density(dat_pop))
 xnew <- mean(dat_pop)
