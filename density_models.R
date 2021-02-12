@@ -58,6 +58,7 @@ dat$pace <- dat$pace %>%
   map(str_sub, 1, 5) %>% 
   ms()
 
+# but use minutes in decimal format
 max_half_pace <- max(dat$decimal_pace)  
 
 
@@ -87,6 +88,7 @@ dat$finish_time <- dat$finish_time %>%
   hms() %>% 
   as.duration(.) 
 
+# calculate pace based upon finish time and 5k distance (3.11 miles)
 dat$decimal_pace <- (as.numeric(dat$finish_time) / 60) / 3.10685596
 
 
@@ -100,7 +102,8 @@ my_pace <- dat %>%
   select(decimal_pace) %>% 
   as.numeric()
 
-# remove outliers from people's 5k pace
+# remove right-side outliers from people's 5k pace
+# could legimately remove left-side outliers, too, but cut-off less clear
 max_half_pace <- 22 #25 #21.57
 
 dat_pop <- dat %>% 
@@ -133,7 +136,7 @@ test_fit <- ks.test(dat_sample, dat_pop)
 test_fit$p.value
 test_fit$statistic
 
-# test the fit of a bell curve
+# examine the fit of a bell curve
 qqnorm(dat_pop)
 qqline(dat_pop)
 
@@ -194,10 +197,8 @@ median(dat_pop)
 median(dat_sample)
 
 sd(dat_pop)
-round(sd(dat_pop) ^ 2, 1)
 sd(dat_sample)
 
-# mode
 d_mode(dat_pop)
 d_mode(dat_sample)
 
@@ -281,9 +282,9 @@ ggplot() +
   #geom_vline(xintercept = my_pace, linetype = 'dotted', color = 'purple') +
   
   # add a title
-  scale_x_continuous(loimits = c(0, max(dat_pop) * 1.05), labels = function(x) paste0(x, ':00')) +
+  scale_x_continuous(limits = c(0, max(dat_pop) * 1.05), labels = function(x) paste0(x, ':00')) +
   #labs(title = 'pdf') 
   #labs(title = paste0('Seed: ', seed_val, ', K-S stat: ', round(test_fit$statistic, 2), ', p-val: ', round(test_fit$p.value, 2)))
-  labs(title = 'Half-marathon pace times', x = 'pace (minutes/mile)')
+  #labs(title = 'Half-marathon pace times', x = 'pace (minutes/mile)')
   labs(title = '5k pace times', x = 'pace (minutes/mile)')
 
