@@ -6,6 +6,10 @@ library(purrr)
 library(ggplot2)
 library(dplyr)
 
+# Analysis of half-marathon and 5k race data 
+# in support of the Medium article, "No customer is average."
+
+
 # Find the statistical mode
 Mode <- function(x, na.rm = FALSE) {
   # x is the vector, ux will be the bins/candidates that we consider

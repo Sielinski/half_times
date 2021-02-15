@@ -1,3 +1,6 @@
+# identify my results in the race data to see how 
+# probable my pace was relative to other runners
+
 my_pace <- dat %>% 
   filter(str_detect(str_to_upper(name), 'SIELINSKI')) %>% 
   select(decimal_pace) %>% 

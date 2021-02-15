@@ -1,15 +1,16 @@
 library(flexmix)
 library(nortest)
 
+# used to proportionally size the density curves of a mixture model
 fun_prop <- function(x, mean, sd, proportion) {
   proportion * dnorm(x = x, mean = mean, sd = sd)
 }
 
 
-# create a dataframe for flexmix
+# create a dataframe for mixture modeling
 dat_mm <- data.frame(x = dat_pop)
 
-# fit two gaussians
+# univariate (x ~ 1) fit of two gaussians (k = 2)
 mm_fit <-
   flexmix(
     x ~ 1,
@@ -19,7 +20,7 @@ mm_fit <-
     control = list(verbose = 1)
   )
 
-# add the cluster data into the dataframe
+# add resulting cluster data to the dataframe
 dat_mm$cluster <- as.factor(clusters(mm_fit))
 
 # how many of each cluster?
